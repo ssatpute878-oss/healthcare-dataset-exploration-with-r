@@ -1,0 +1,10 @@
+admission_type,test_results,admissions,within_admission_type_pct
+Elective,Abnormal,110,33.033033033033036
+Elective,Inconclusive,57,17.117117117117118
+Elective,Normal,166,49.849849849849846
+Emergency,Abnormal,168,35.14644351464435
+Emergency,Inconclusive,106,22.175732217573223
+Emergency,Normal,204,42.67782426778243
+Urgent,Abnormal,66,34.92063492063492
+Urgent,Inconclusive,30,15.873015873015873
+Urgent,Normal,93,49.20634920634921

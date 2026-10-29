@@ -1,0 +1,1001 @@
+age,gender,blood_type,medical_condition,date_of_admission,hospital,insurance_provider,billing_amount,room_number,admission_type,discharge_date,medication,test_results,data_label,length_of_stay,admission_month
+75,Male,B+,Bronchitis,2024-07-14,General Hospital,UnitedHealthcare,9871.69,266,Emergency,2024-07-16,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-07-01
+82,Male,A+,Asthma,2023-11-17,General Hospital,Aetna,5608.49,256,Elective,2023-11-22,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-11-01
+44,Female,A+,Cancer,2023-06-02,Memorial Health System,Blue Cross,24169.85,478,Elective,2023-06-05,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-06-01
+59,Male,O+,Bronchitis,2023-03-15,Mercy Hospital,Cigna,47236.49,479,Urgent,2023-03-21,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-03-01
+37,Female,AB+,Bronchitis,2023-08-16,Memorial Health System,Blue Cross,22344.43,375,Emergency,2023-08-25,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2023-08-01
+21,Male,B+,Bronchitis,2023-05-26,St. Jude Clinic,Aetna,45636.12,408,Urgent,2023-06-04,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2023-05-01
+69,Male,A+,Hypertension,2024-09-25,Mercy Hospital,Blue Cross,17838.54,446,Urgent,2024-10-04,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2024-09-01
+27,Male,O+,Hypertension,2023-02-18,Memorial Health System,UnitedHealthcare,24900.71,487,Elective,2023-02-26,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2023-02-01
+57,Male,A+,Hypertension,2023-05-08,Memorial Health System,Medicare,40654.86,280,Urgent,2023-05-13,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-05-01
+19,Female,A+,Cancer,2023-10-30,City Medical Center,Medicare,40085.14,476,Emergency,2023-11-05,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-10-01
+87,Male,O+,Diabetes,2023-01-24,Mercy Hospital,Aetna,8979.05,459,Emergency,2023-02-05,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,12,2023-01-01
+50,Female,A+,Hypertension,2023-12-22,Memorial Health System,Medicare,7753.09,419,Emergency,2023-12-27,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-12-01
+74,Male,A+,Asthma,2024-08-23,General Hospital,Blue Cross,2703.8,377,Emergency,2024-08-30,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2024-08-01
+84,Male,O+,Asthma,2023-06-14,University Hospital,Medicare,36226.47,142,Elective,2023-06-18,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-06-01
+62,Male,O+,Asthma,2024-09-13,City Medical Center,Medicare,38100.91,490,Urgent,2024-09-20,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2024-09-01
+45,Female,A-,Hypertension,2024-06-15,University Hospital,Blue Cross,12198.07,197,Elective,2024-06-22,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2024-06-01
+18,Male,A+,Bronchitis,2024-02-14,General Hospital,Medicare,26068.46,216,Emergency,2024-02-19,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-02-01
+30,Female,A+,Asthma,2023-10-24,Mercy Hospital,UnitedHealthcare,11222.7,334,Elective,2023-11-03,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2023-10-01
+80,Male,O+,Bronchitis,2024-08-23,University Hospital,Medicare,23284.57,386,Urgent,2024-08-27,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-08-01
+64,Female,A+,Arthritis,2023-10-10,City Medical Center,Cigna,26459.53,290,Urgent,2023-10-12,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-10-01
+37,Female,A+,Hypertension,2024-09-12,General Hospital,Aetna,18325.62,417,Emergency,2024-09-14,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-09-01
+51,Female,B+,Arthritis,2024-05-31,St. Jude Clinic,Medicare,36239.14,160,Emergency,2024-06-03,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-05-01
+35,Female,B+,Hypertension,2023-07-31,University Hospital,Medicare,4583.98,426,Emergency,2023-08-05,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-07-01
+63,Female,O-,Asthma,2023-09-16,Mercy Hospital,UnitedHealthcare,15451.15,192,Emergency,2023-09-17,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-09-01
+65,Male,O+,Arthritis,2023-11-10,Memorial Health System,UnitedHealthcare,10251.83,331,Elective,2023-11-12,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-11-01
+70,Male,A+,Arthritis,2024-04-25,St. Jude Clinic,UnitedHealthcare,15015.29,462,Emergency,2024-05-04,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2024-04-01
+69,Female,O+,Hypertension,2023-10-25,General Hospital,UnitedHealthcare,34080.09,288,Elective,2023-10-27,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-10-01
+57,Female,AB-,Cancer,2023-01-24,General Hospital,Blue Cross,41072.43,470,Emergency,2023-01-26,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-01-01
+74,Female,A+,Diabetes,2023-06-07,General Hospital,Cigna,25591.53,285,Emergency,2023-06-10,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-06-01
+53,Female,O+,Arthritis,2023-10-26,City Medical Center,Blue Cross,45886.01,135,Urgent,2023-10-29,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-10-01
+86,Female,O+,Cancer,2024-02-10,General Hospital,Cigna,6047.3,475,Elective,2024-02-17,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2024-02-01
+29,Female,AB+,Asthma,2023-11-10,Memorial Health System,Aetna,26278.55,445,Emergency,2023-11-19,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2023-11-01
+40,Female,O+,Diabetes,2024-10-09,General Hospital,Medicare,35493.75,293,Elective,2024-10-10,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-10-01
+85,Female,O+,Bronchitis,2023-10-19,Mercy Hospital,UnitedHealthcare,7063.63,214,Elective,2023-10-28,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2023-10-01
+33,Female,O+,Bronchitis,2023-05-26,Memorial Health System,Medicare,38180.07,195,Elective,2023-05-29,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-05-01
+68,Male,O+,Bronchitis,2024-09-12,Memorial Health System,Blue Cross,22973.28,409,Elective,2024-09-17,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-09-01
+54,Male,A+,Arthritis,2023-12-14,Mercy Hospital,UnitedHealthcare,22813.52,235,Elective,2023-12-23,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2023-12-01
+53,Male,O+,Cancer,2023-07-16,University Hospital,Blue Cross,35720.08,412,Emergency,2023-07-20,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-07-01
+43,Female,A+,Arthritis,2024-05-30,St. Jude Clinic,Medicare,24952.57,198,Emergency,2024-06-09,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2024-05-01
+79,Female,O+,Arthritis,2023-08-14,Memorial Health System,UnitedHealthcare,7379.91,125,Elective,2023-08-19,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-08-01
+46,Female,O+,Cancer,2024-05-18,General Hospital,Aetna,44387.44,386,Urgent,2024-05-24,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-05-01
+18,Female,A+,Cancer,2023-12-21,Memorial Health System,Cigna,13429.19,146,Emergency,2023-12-22,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-12-01
+88,Female,O+,Asthma,2024-12-27,St. Jude Clinic,Medicare,32235.12,165,Emergency,2024-12-31,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-12-01
+58,Female,B+,Bronchitis,2023-09-02,Mercy Hospital,Aetna,42733.87,261,Elective,2023-09-12,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2023-09-01
+74,Female,O-,Hypertension,2024-09-17,General Hospital,UnitedHealthcare,42937.85,410,Emergency,2024-09-18,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-09-01
+41,Female,O+,Bronchitis,2023-09-19,General Hospital,UnitedHealthcare,46886.72,187,Emergency,2023-09-21,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-09-01
+34,Female,A+,Cancer,2024-01-25,Mercy Hospital,Aetna,24432.04,332,Emergency,2024-02-10,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,16,2024-01-01
+70,Female,A+,Cancer,2023-05-10,City Medical Center,Cigna,6876.19,255,Urgent,2023-05-11,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-05-01
+82,Female,O+,Bronchitis,2024-01-07,St. Jude Clinic,Blue Cross,44837.52,406,Emergency,2024-01-10,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-01-01
+39,Female,B+,Arthritis,2023-01-03,Mercy Hospital,Cigna,16893.38,203,Emergency,2023-01-13,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2023-01-01
+73,Male,B+,Hypertension,2024-01-09,Mercy Hospital,Blue Cross,23877.51,406,Elective,2024-01-14,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-01-01
+19,Male,A+,Asthma,2024-02-09,St. Jude Clinic,Medicare,27800.46,473,Elective,2024-02-15,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-02-01
+49,Male,A+,Asthma,2024-11-28,General Hospital,UnitedHealthcare,39838.42,200,Urgent,2024-11-30,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-11-01
+48,Male,O+,Bronchitis,2024-10-11,Mercy Hospital,Cigna,31431.84,113,Emergency,2024-10-14,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-10-01
+86,Male,A+,Hypertension,2023-02-09,St. Jude Clinic,UnitedHealthcare,19113.43,418,Elective,2023-02-15,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-02-01
+78,Male,O+,Hypertension,2024-05-31,Mercy Hospital,Aetna,24345.53,251,Emergency,2024-06-09,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2024-05-01
+47,Female,O+,Diabetes,2023-02-02,University Hospital,Aetna,8903.65,423,Elective,2023-02-17,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,15,2023-02-01
+53,Female,O+,Asthma,2023-04-13,Mercy Hospital,Cigna,13342.13,335,Emergency,2023-04-15,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-04-01
+57,Female,O+,Arthritis,2023-08-16,General Hospital,Blue Cross,40798.84,467,Elective,2023-08-18,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-08-01
+21,Female,A+,Diabetes,2023-04-19,Mercy Hospital,Blue Cross,39469.46,468,Emergency,2023-04-24,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-04-01
+58,Male,O+,Asthma,2023-11-25,Mercy Hospital,Aetna,47506.88,363,Emergency,2023-12-19,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,24,2023-11-01
+56,Male,AB+,Cancer,2024-10-30,St. Jude Clinic,Cigna,35689.15,220,Elective,2024-11-07,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2024-10-01
+18,Female,B-,Arthritis,2023-03-17,University Hospital,UnitedHealthcare,19437.75,143,Emergency,2023-03-19,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-03-01
+74,Female,O+,Diabetes,2024-05-05,Memorial Health System,Aetna,25722.23,469,Elective,2024-05-31,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,26,2024-05-01
+40,Female,O+,Hypertension,2024-06-30,Mercy Hospital,Medicare,44772.42,154,Elective,2024-07-03,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-06-01
+19,Female,A-,Arthritis,2023-01-16,Mercy Hospital,Medicare,28820.43,342,Elective,2023-01-28,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,12,2023-01-01
+81,Female,O+,Hypertension,2023-12-23,Memorial Health System,UnitedHealthcare,20989.55,137,Emergency,2023-12-25,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-12-01
+59,Male,O+,Hypertension,2023-09-05,Mercy Hospital,Blue Cross,12140.86,199,Emergency,2023-09-09,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-09-01
+75,Male,A+,Asthma,2023-11-21,Mercy Hospital,Cigna,39906.68,199,Emergency,2023-11-23,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-11-01
+27,Female,O+,Arthritis,2024-09-21,Memorial Health System,UnitedHealthcare,24870.59,209,Elective,2024-09-23,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-09-01
+21,Male,A+,Cancer,2024-10-03,St. Jude Clinic,Blue Cross,9838.45,267,Emergency,2024-10-08,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-10-01
+40,Female,A+,Bronchitis,2023-03-23,City Medical Center,Aetna,34800.09,102,Elective,2023-03-24,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-03-01
+35,Female,A+,Asthma,2023-11-21,University Hospital,Blue Cross,30190.85,210,Elective,2023-11-24,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-11-01
+68,Female,O+,Cancer,2024-09-13,City Medical Center,Medicare,7521.07,149,Elective,2024-09-17,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-09-01
+68,Male,O-,Asthma,2023-12-26,St. Jude Clinic,Blue Cross,12625.33,295,Urgent,2023-12-30,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-12-01
+52,Male,A+,Cancer,2023-10-23,St. Jude Clinic,Blue Cross,27369.07,180,Emergency,2023-10-29,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-10-01
+46,Male,B+,Asthma,2023-05-29,Memorial Health System,Medicare,6511.72,186,Urgent,2023-05-31,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-05-01
+31,Male,B+,Arthritis,2024-07-22,Mercy Hospital,Medicare,8372.16,215,Emergency,2024-08-02,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,11,2024-07-01
+30,Female,AB-,Cancer,2023-04-10,Memorial Health System,Cigna,36341.72,376,Elective,2023-04-12,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-04-01
+82,Female,O-,Diabetes,2023-10-25,Memorial Health System,Cigna,42678.44,363,Elective,2023-10-28,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-10-01
+52,Male,B-,Bronchitis,2024-02-06,Mercy Hospital,Cigna,45554.94,460,Urgent,2024-02-08,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-02-01
+31,Female,B+,Diabetes,2023-04-01,University Hospital,Blue Cross,14197.53,110,Emergency,2023-04-06,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-04-01
+77,Male,O-,Diabetes,2023-06-30,University Hospital,Cigna,12291.61,110,Urgent,2023-07-05,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-06-01
+59,Male,O+,Diabetes,2023-02-23,Mercy Hospital,Blue Cross,11983.38,483,Emergency,2023-02-26,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-02-01
+60,Male,O+,Diabetes,2023-10-15,Memorial Health System,UnitedHealthcare,11071.36,305,Emergency,2023-10-19,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-10-01
+54,Female,O+,Diabetes,2024-12-20,General Hospital,Medicare,11522.23,394,Emergency,2024-12-23,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-12-01
+69,Female,AB+,Asthma,2023-03-01,Memorial Health System,UnitedHealthcare,8949.37,304,Emergency,2023-03-08,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2023-03-01
+41,Male,O+,Cancer,2023-10-12,University Hospital,Aetna,34142.9,289,Emergency,2023-10-15,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-10-01
+36,Female,A+,Diabetes,2024-09-11,Memorial Health System,UnitedHealthcare,17215.86,133,Emergency,2024-09-13,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-09-01
+34,Male,B+,Arthritis,2024-01-12,General Hospital,Blue Cross,19820.02,370,Emergency,2024-01-15,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-01-01
+88,Female,B+,Cancer,2024-09-29,General Hospital,Medicare,36496.76,326,Urgent,2024-10-08,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2024-09-01
+57,Male,O+,Asthma,2024-03-02,City Medical Center,Aetna,15294.09,236,Emergency,2024-03-10,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2024-03-01
+73,Male,O+,Arthritis,2024-03-17,Mercy Hospital,UnitedHealthcare,37163.64,350,Elective,2024-03-23,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-03-01
+89,Male,O+,Bronchitis,2023-04-22,Memorial Health System,Cigna,5822.6,439,Emergency,2023-04-23,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-04-01
+47,Male,B+,Hypertension,2024-08-06,University Hospital,Medicare,33035.08,455,Emergency,2024-08-20,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,14,2024-08-01
+65,Female,B+,Bronchitis,2023-10-12,St. Jude Clinic,Medicare,44323.04,351,Emergency,2023-10-20,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2023-10-01
+35,Female,AB+,Diabetes,2024-05-27,University Hospital,Blue Cross,37819.35,206,Elective,2024-06-01,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-05-01
+82,Female,O-,Bronchitis,2023-05-21,General Hospital,Cigna,36191.54,302,Elective,2023-05-22,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-05-01
+74,Female,A+,Diabetes,2024-12-18,St. Jude Clinic,Aetna,17040.82,400,Emergency,2024-12-19,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-12-01
+71,Female,A+,Arthritis,2023-11-07,City Medical Center,Aetna,31368.08,158,Elective,2023-11-10,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-11-01
+81,Male,O+,Hypertension,2024-04-18,City Medical Center,Aetna,22130.51,333,Elective,2024-04-25,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2024-04-01
+41,Male,AB+,Diabetes,2024-07-07,City Medical Center,Blue Cross,17632.23,119,Urgent,2024-07-16,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2024-07-01
+88,Female,B+,Hypertension,2023-02-11,General Hospital,Aetna,36734.03,292,Emergency,2023-02-12,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-02-01
+48,Male,O+,Diabetes,2023-09-08,St. Jude Clinic,Blue Cross,3447.26,389,Elective,2023-09-10,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-09-01
+39,Male,A+,Diabetes,2024-03-16,Mercy Hospital,Cigna,20205.59,493,Elective,2024-03-25,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2024-03-01
+69,Male,A+,Bronchitis,2024-10-30,University Hospital,UnitedHealthcare,16276.73,265,Elective,2024-11-03,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-10-01
+60,Male,A+,Bronchitis,2023-01-25,Memorial Health System,Blue Cross,10149.44,467,Urgent,2023-01-31,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-01-01
+50,Female,A+,Hypertension,2024-12-03,St. Jude Clinic,Blue Cross,30496.38,385,Elective,2024-12-08,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-12-01
+84,Male,O+,Bronchitis,2024-06-27,St. Jude Clinic,Cigna,6329.08,315,Emergency,2024-07-02,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-06-01
+47,Male,O+,Diabetes,2023-08-26,General Hospital,Blue Cross,12344.3,307,Emergency,2023-09-05,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2023-08-01
+80,Male,A+,Bronchitis,2024-06-09,City Medical Center,Aetna,47841.1,365,Emergency,2024-06-22,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,13,2024-06-01
+21,Female,O+,Diabetes,2024-09-14,General Hospital,UnitedHealthcare,8227.82,290,Emergency,2024-10-04,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,20,2024-09-01
+63,Female,A+,Hypertension,2023-09-19,University Hospital,Blue Cross,4528.95,343,Emergency,2023-09-28,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2023-09-01
+85,Female,A+,Asthma,2024-05-18,University Hospital,Cigna,43397.83,159,Elective,2024-05-20,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-05-01
+26,Male,A+,Arthritis,2023-10-26,City Medical Center,Aetna,25782.08,349,Emergency,2023-10-30,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-10-01
+21,Female,O-,Diabetes,2024-03-21,St. Jude Clinic,UnitedHealthcare,4818.96,394,Emergency,2024-03-24,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-03-01
+54,Male,A+,Hypertension,2024-12-20,St. Jude Clinic,Aetna,46792.56,454,Elective,2024-12-24,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-12-01
+68,Male,A+,Bronchitis,2024-01-04,Memorial Health System,Medicare,9691.11,190,Elective,2024-01-13,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2024-01-01
+31,Male,A+,Cancer,2024-05-26,City Medical Center,Cigna,38847.55,339,Urgent,2024-05-28,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-05-01
+19,Female,B+,Bronchitis,2024-01-04,Memorial Health System,Cigna,9576.44,356,Elective,2024-01-07,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-01-01
+75,Female,B+,Diabetes,2023-08-12,City Medical Center,Cigna,21904.78,139,Emergency,2023-08-20,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2023-08-01
+65,Male,O+,Bronchitis,2023-08-02,City Medical Center,Blue Cross,11235.34,230,Emergency,2023-08-03,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-08-01
+26,Female,A+,Hypertension,2023-10-21,City Medical Center,Aetna,34490.92,345,Emergency,2023-10-28,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2023-10-01
+88,Female,O+,Cancer,2024-08-29,General Hospital,Aetna,38932.31,161,Elective,2024-09-04,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-08-01
+39,Female,B+,Diabetes,2024-06-01,City Medical Center,Cigna,46310.39,155,Emergency,2024-06-04,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-06-01
+76,Female,A+,Diabetes,2024-06-29,City Medical Center,Aetna,4684.68,366,Elective,2024-07-02,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-06-01
+86,Male,O+,Cancer,2024-03-01,City Medical Center,Blue Cross,28671.58,353,Elective,2024-03-02,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-03-01
+51,Male,A+,Diabetes,2024-04-15,Memorial Health System,UnitedHealthcare,21644.21,489,Emergency,2024-04-16,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-04-01
+67,Male,B+,Arthritis,2023-07-07,St. Jude Clinic,Cigna,15451.5,238,Emergency,2023-07-11,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-07-01
+56,Female,A+,Asthma,2023-09-11,General Hospital,Blue Cross,18205.43,492,Urgent,2023-09-13,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-09-01
+69,Male,A+,Cancer,2023-09-25,General Hospital,Medicare,44666.41,450,Elective,2023-10-01,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-09-01
+77,Male,A+,Hypertension,2024-10-01,University Hospital,Medicare,43785.62,162,Elective,2024-10-23,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,22,2024-10-01
+79,Male,O-,Arthritis,2024-02-14,Memorial Health System,Aetna,46598.06,155,Elective,2024-02-22,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2024-02-01
+76,Female,B+,Diabetes,2023-02-10,City Medical Center,Medicare,38862.95,393,Urgent,2023-02-14,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-02-01
+76,Female,O+,Hypertension,2023-07-12,Memorial Health System,UnitedHealthcare,9890.17,181,Emergency,2023-07-16,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-07-01
+79,Female,A+,Diabetes,2024-07-31,Memorial Health System,Blue Cross,14935.71,490,Elective,2024-08-12,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,12,2024-07-01
+46,Female,B-,Bronchitis,2024-10-25,City Medical Center,Blue Cross,37255.38,425,Urgent,2024-10-26,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-10-01
+28,Female,O+,Cancer,2023-04-08,City Medical Center,Aetna,39955.3,171,Elective,2023-04-16,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2023-04-01
+65,Male,A+,Arthritis,2024-06-20,General Hospital,Blue Cross,27591.37,377,Emergency,2024-07-11,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,21,2024-06-01
+66,Female,A+,Asthma,2023-12-14,City Medical Center,Medicare,9091.46,301,Urgent,2023-12-21,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2023-12-01
+75,Male,AB+,Bronchitis,2023-04-17,University Hospital,UnitedHealthcare,37013.96,341,Urgent,2023-04-27,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2023-04-01
+87,Female,O+,Arthritis,2023-11-13,University Hospital,Medicare,6448.02,466,Elective,2023-11-18,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-11-01
+18,Female,A+,Bronchitis,2023-01-14,General Hospital,Aetna,34386.32,386,Emergency,2023-01-16,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-01-01
+73,Female,O+,Asthma,2023-06-11,University Hospital,Aetna,40216.34,127,Elective,2023-06-15,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-06-01
+84,Female,B+,Arthritis,2024-09-27,University Hospital,Aetna,24877.68,382,Emergency,2024-10-19,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,22,2024-09-01
+87,Female,A+,Diabetes,2024-12-06,City Medical Center,Medicare,27416.32,147,Elective,2024-12-25,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,19,2024-12-01
+79,Male,O-,Bronchitis,2024-08-29,General Hospital,Blue Cross,32957.6,443,Emergency,2024-09-01,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-08-01
+75,Female,O+,Hypertension,2024-06-27,City Medical Center,UnitedHealthcare,4096.33,419,Elective,2024-06-28,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-06-01
+51,Female,O+,Bronchitis,2024-11-27,Memorial Health System,Medicare,7643.23,377,Elective,2024-12-04,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2024-11-01
+61,Female,A+,Cancer,2024-09-21,City Medical Center,Cigna,33795.06,299,Elective,2024-09-27,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-09-01
+68,Female,B+,Asthma,2023-02-06,Mercy Hospital,UnitedHealthcare,6144.41,408,Emergency,2023-02-09,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-02-01
+76,Female,A+,Arthritis,2023-05-18,Memorial Health System,Blue Cross,16867.33,439,Emergency,2023-05-23,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-05-01
+37,Male,A+,Cancer,2024-01-04,City Medical Center,Cigna,37283.3,188,Elective,2024-01-24,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,20,2024-01-01
+35,Male,A+,Cancer,2024-06-30,St. Jude Clinic,Medicare,18422.91,470,Urgent,2024-07-02,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-06-01
+60,Female,O+,Asthma,2023-03-19,General Hospital,Cigna,26809.78,378,Urgent,2023-03-27,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2023-03-01
+36,Female,O+,Diabetes,2024-06-09,University Hospital,Medicare,43143.41,499,Urgent,2024-06-19,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2024-06-01
+78,Female,O+,Arthritis,2024-10-29,Mercy Hospital,UnitedHealthcare,22867.78,417,Emergency,2024-10-31,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-10-01
+81,Male,B+,Asthma,2023-04-07,St. Jude Clinic,Cigna,17426.48,298,Emergency,2023-04-17,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2023-04-01
+37,Male,A+,Arthritis,2024-04-27,Memorial Health System,UnitedHealthcare,4632.31,330,Emergency,2024-05-04,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2024-04-01
+54,Female,B+,Hypertension,2023-07-01,St. Jude Clinic,Cigna,20214.39,405,Urgent,2023-07-09,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2023-07-01
+55,Female,A+,Cancer,2024-04-18,City Medical Center,UnitedHealthcare,15445.16,154,Emergency,2024-04-27,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2024-04-01
+25,Male,O+,Cancer,2023-05-07,General Hospital,UnitedHealthcare,14796.74,347,Elective,2023-05-11,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-05-01
+35,Female,A+,Arthritis,2024-05-07,City Medical Center,Cigna,28717.52,362,Emergency,2024-05-12,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-05-01
+23,Female,A+,Cancer,2024-07-08,General Hospital,Aetna,31141.64,475,Elective,2024-07-20,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,12,2024-07-01
+25,Female,O+,Asthma,2024-11-22,City Medical Center,Medicare,16758.29,372,Emergency,2024-11-29,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2024-11-01
+50,Male,O+,Asthma,2024-05-20,Memorial Health System,Blue Cross,33836.66,211,Elective,2024-05-29,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2024-05-01
+33,Male,A+,Bronchitis,2023-12-03,Memorial Health System,Cigna,26723.83,170,Elective,2023-12-04,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-12-01
+75,Male,A+,Diabetes,2024-06-22,Mercy Hospital,Blue Cross,37079.75,164,Emergency,2024-06-25,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-06-01
+22,Female,A+,Arthritis,2024-06-25,St. Jude Clinic,Cigna,32067.87,455,Emergency,2024-07-07,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,12,2024-06-01
+46,Female,B+,Arthritis,2023-06-29,Memorial Health System,Aetna,25108.24,377,Elective,2023-06-30,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-06-01
+79,Male,A+,Hypertension,2023-07-31,General Hospital,Medicare,22761.92,300,Emergency,2023-08-04,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-07-01
+40,Male,A+,Arthritis,2024-08-09,Mercy Hospital,Medicare,17086.27,452,Emergency,2024-08-28,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,19,2024-08-01
+43,Female,AB+,Arthritis,2023-07-20,St. Jude Clinic,UnitedHealthcare,32781.45,204,Emergency,2023-07-29,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2023-07-01
+35,Female,A+,Hypertension,2024-02-05,General Hospital,Medicare,2850.27,364,Emergency,2024-02-19,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,14,2024-02-01
+46,Female,A+,Hypertension,2023-03-03,University Hospital,UnitedHealthcare,20880.99,417,Elective,2023-03-06,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-03-01
+29,Female,A-,Arthritis,2023-09-26,Mercy Hospital,Blue Cross,41026.94,226,Urgent,2023-10-02,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-09-01
+43,Male,B+,Asthma,2024-01-17,University Hospital,Medicare,19567.44,445,Emergency,2024-01-25,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2024-01-01
+35,Male,O+,Asthma,2023-05-04,General Hospital,Blue Cross,40801.12,328,Elective,2023-05-17,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,13,2023-05-01
+76,Female,B+,Hypertension,2023-03-04,City Medical Center,Aetna,20686.65,360,Elective,2023-03-07,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-03-01
+25,Female,B+,Cancer,2024-07-14,General Hospital,UnitedHealthcare,35920.5,182,Urgent,2024-07-18,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-07-01
+57,Female,O+,Cancer,2024-07-26,St. Jude Clinic,Blue Cross,36104.11,473,Elective,2024-08-02,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2024-07-01
+79,Male,A+,Bronchitis,2024-09-19,General Hospital,UnitedHealthcare,17352.48,375,Elective,2024-09-23,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-09-01
+80,Female,A+,Cancer,2024-06-23,Mercy Hospital,Medicare,38635.89,282,Urgent,2024-06-27,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-06-01
+86,Male,O+,Diabetes,2023-01-02,St. Jude Clinic,UnitedHealthcare,39399.49,265,Emergency,2023-01-03,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-01-01
+31,Female,B+,Asthma,2024-11-01,University Hospital,Blue Cross,47555.96,228,Emergency,2024-11-03,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-11-01
+28,Female,A+,Bronchitis,2024-10-09,St. Jude Clinic,Medicare,41966.28,466,Elective,2024-10-13,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-10-01
+23,Male,A+,Arthritis,2023-05-07,Mercy Hospital,UnitedHealthcare,9904.13,221,Elective,2023-05-09,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-05-01
+74,Female,O+,Cancer,2023-07-27,General Hospital,Blue Cross,29395.43,142,Urgent,2023-07-30,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-07-01
+31,Female,O+,Diabetes,2023-09-26,Memorial Health System,Medicare,13403.67,161,Emergency,2023-09-28,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-09-01
+63,Male,B+,Diabetes,2023-01-12,University Hospital,Medicare,24439.29,364,Elective,2023-01-22,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2023-01-01
+70,Female,A+,Diabetes,2024-12-05,City Medical Center,Cigna,36181.86,166,Emergency,2024-12-07,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-12-01
+71,Female,A+,Asthma,2024-10-31,City Medical Center,UnitedHealthcare,3752.09,378,Emergency,2024-11-04,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-10-01
+42,Female,A-,Bronchitis,2024-07-16,General Hospital,Aetna,45691.07,489,Emergency,2024-07-21,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-07-01
+88,Female,O+,Diabetes,2024-03-19,General Hospital,Blue Cross,45078.11,282,Emergency,2024-03-20,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-03-01
+79,Female,A+,Bronchitis,2024-11-07,Mercy Hospital,Blue Cross,42996.03,404,Emergency,2024-11-20,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,13,2024-11-01
+53,Male,AB+,Arthritis,2024-07-12,General Hospital,Blue Cross,29817.96,297,Emergency,2024-07-17,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-07-01
+37,Male,A+,Asthma,2023-07-17,St. Jude Clinic,UnitedHealthcare,17059.89,130,Emergency,2023-07-18,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-07-01
+67,Female,O+,Cancer,2023-01-10,Memorial Health System,UnitedHealthcare,32239.92,365,Urgent,2023-01-12,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-01-01
+54,Female,B+,Cancer,2023-09-12,University Hospital,Blue Cross,13820.97,432,Elective,2023-09-29,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,17,2023-09-01
+84,Male,B+,Asthma,2023-07-20,City Medical Center,Aetna,40830.03,118,Elective,2023-07-25,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-07-01
+37,Female,A-,Diabetes,2024-05-29,City Medical Center,Blue Cross,45956.83,369,Emergency,2024-06-08,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2024-05-01
+78,Female,O+,Asthma,2023-06-30,General Hospital,Aetna,23182.56,224,Elective,2023-07-02,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-06-01
+85,Female,O+,Arthritis,2023-10-11,University Hospital,UnitedHealthcare,45204.75,244,Elective,2023-10-23,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,12,2023-10-01
+24,Female,O-,Hypertension,2024-04-07,City Medical Center,Cigna,10799.15,333,Emergency,2024-04-13,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-04-01
+38,Female,O-,Hypertension,2024-08-27,City Medical Center,UnitedHealthcare,29114.41,485,Elective,2024-09-01,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-08-01
+59,Female,A+,Asthma,2023-11-09,University Hospital,Blue Cross,20677.14,468,Emergency,2023-11-19,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2023-11-01
+76,Male,B+,Cancer,2023-03-25,Memorial Health System,Cigna,45975.22,156,Urgent,2023-03-28,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-03-01
+45,Female,A-,Cancer,2024-04-08,Mercy Hospital,Cigna,9484.93,253,Urgent,2024-04-19,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,11,2024-04-01
+32,Female,B+,Asthma,2023-08-13,St. Jude Clinic,Cigna,25105.03,117,Urgent,2023-08-15,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-08-01
+85,Female,A+,Asthma,2024-07-26,Mercy Hospital,UnitedHealthcare,36304.29,475,Emergency,2024-07-28,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-07-01
+31,Female,A-,Hypertension,2023-04-12,General Hospital,Cigna,11905.17,334,Emergency,2023-04-18,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-04-01
+73,Male,O+,Arthritis,2023-06-20,Memorial Health System,Cigna,20954.86,355,Emergency,2023-06-30,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2023-06-01
+23,Female,A+,Asthma,2024-05-03,City Medical Center,UnitedHealthcare,24331.72,140,Emergency,2024-05-04,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-05-01
+32,Male,A+,Asthma,2024-10-23,City Medical Center,Aetna,22982.08,440,Elective,2024-11-02,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2024-10-01
+89,Female,O+,Arthritis,2024-11-24,City Medical Center,UnitedHealthcare,26699.17,414,Emergency,2024-12-03,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2024-11-01
+25,Female,A+,Cancer,2024-07-20,City Medical Center,Medicare,19471.67,267,Urgent,2024-07-22,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-07-01
+47,Male,A+,Asthma,2024-07-19,University Hospital,Blue Cross,5204.09,242,Elective,2024-08-02,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,14,2024-07-01
+86,Female,O-,Arthritis,2024-11-15,Memorial Health System,Cigna,41881.67,389,Emergency,2024-11-18,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-11-01
+29,Male,A+,Arthritis,2024-02-25,University Hospital,Cigna,22152.18,337,Urgent,2024-02-27,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-02-01
+80,Female,O+,Bronchitis,2024-07-08,Memorial Health System,Blue Cross,7344.89,334,Elective,2024-07-11,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-07-01
+30,Male,B+,Hypertension,2023-07-26,University Hospital,Aetna,17867.7,190,Elective,2023-07-28,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-07-01
+47,Male,A+,Hypertension,2023-03-26,Mercy Hospital,Blue Cross,22102.85,388,Emergency,2023-04-04,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2023-03-01
+26,Male,A+,Hypertension,2023-06-02,City Medical Center,Aetna,33821.66,339,Emergency,2023-06-03,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-06-01
+85,Male,O+,Diabetes,2023-08-28,City Medical Center,Medicare,5380.19,393,Emergency,2023-09-02,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-08-01
+21,Female,O+,Asthma,2023-02-18,City Medical Center,Aetna,16042.18,155,Urgent,2023-02-20,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-02-01
+72,Male,AB+,Diabetes,2023-05-19,City Medical Center,UnitedHealthcare,24753.57,161,Elective,2023-05-26,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2023-05-01
+30,Female,O+,Bronchitis,2023-06-05,Memorial Health System,UnitedHealthcare,33675.47,359,Emergency,2023-06-08,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-06-01
+70,Male,O+,Bronchitis,2023-10-01,St. Jude Clinic,Blue Cross,25071.19,449,Emergency,2023-10-03,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-10-01
+45,Female,A+,Cancer,2024-07-20,General Hospital,Blue Cross,34537.52,435,Elective,2024-07-29,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2024-07-01
+30,Male,O-,Cancer,2023-08-14,Mercy Hospital,Cigna,31751.01,392,Emergency,2023-08-20,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-08-01
+23,Male,O+,Diabetes,2023-06-19,General Hospital,Medicare,20244.91,470,Emergency,2023-06-21,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-06-01
+69,Male,O-,Hypertension,2023-10-19,University Hospital,Cigna,25579.54,292,Elective,2023-10-23,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-10-01
+36,Female,A+,Diabetes,2023-05-28,University Hospital,Blue Cross,24460.51,201,Emergency,2023-05-31,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-05-01
+65,Male,A+,Asthma,2024-12-19,City Medical Center,Medicare,36346.8,401,Emergency,2025-01-08,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,20,2024-12-01
+45,Female,O+,Hypertension,2023-07-08,Memorial Health System,Cigna,47607.75,141,Emergency,2023-07-09,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-07-01
+57,Male,B+,Cancer,2023-04-23,University Hospital,Cigna,25036.71,175,Emergency,2023-05-05,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,12,2023-04-01
+49,Male,A+,Bronchitis,2023-01-27,City Medical Center,Medicare,45233.26,347,Urgent,2023-01-31,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-01-01
+79,Female,A+,Cancer,2024-08-28,University Hospital,Blue Cross,27078.1,214,Elective,2024-09-04,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2024-08-01
+39,Male,A+,Bronchitis,2024-10-06,St. Jude Clinic,UnitedHealthcare,45269.94,347,Urgent,2024-10-14,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2024-10-01
+77,Male,O+,Diabetes,2023-03-27,University Hospital,Aetna,44159.7,192,Urgent,2023-03-29,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-03-01
+61,Male,O+,Diabetes,2024-09-17,St. Jude Clinic,Medicare,26304.23,415,Emergency,2024-10-02,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,15,2024-09-01
+35,Female,O+,Asthma,2023-09-07,Memorial Health System,UnitedHealthcare,38897.53,161,Emergency,2023-09-08,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-09-01
+46,Male,A+,Arthritis,2023-06-18,General Hospital,Medicare,11623.49,159,Elective,2023-06-19,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-06-01
+75,Male,O+,Bronchitis,2024-07-03,Memorial Health System,Blue Cross,44794.47,230,Emergency,2024-07-05,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-07-01
+42,Male,O+,Hypertension,2023-12-28,City Medical Center,Blue Cross,35079.91,445,Elective,2023-12-29,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-12-01
+44,Female,AB+,Diabetes,2024-04-01,General Hospital,UnitedHealthcare,37254.42,472,Elective,2024-04-02,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-04-01
+88,Male,AB-,Hypertension,2023-04-25,City Medical Center,UnitedHealthcare,26448.02,211,Urgent,2023-04-27,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-04-01
+18,Male,A-,Diabetes,2023-08-01,General Hospital,Cigna,16505.04,172,Emergency,2023-08-12,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,11,2023-08-01
+56,Female,O+,Diabetes,2023-10-19,General Hospital,Blue Cross,47992.32,235,Emergency,2023-11-05,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,17,2023-10-01
+67,Female,A-,Diabetes,2024-03-01,St. Jude Clinic,Cigna,26753.2,189,Emergency,2024-03-05,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-03-01
+38,Male,A+,Bronchitis,2023-08-02,General Hospital,UnitedHealthcare,3714.22,430,Elective,2023-08-04,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-08-01
+32,Female,A+,Diabetes,2024-03-13,University Hospital,Blue Cross,4594.49,335,Elective,2024-03-19,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-03-01
+80,Female,A+,Cancer,2024-09-16,Mercy Hospital,Cigna,21593.3,231,Elective,2024-09-17,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-09-01
+51,Female,O+,Arthritis,2024-06-25,Mercy Hospital,Blue Cross,29010.13,374,Emergency,2024-07-13,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,18,2024-06-01
+71,Male,O+,Hypertension,2024-11-29,University Hospital,Cigna,44863.13,305,Emergency,2024-12-09,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2024-11-01
+56,Male,O+,Cancer,2024-04-13,Mercy Hospital,Cigna,22933.87,207,Emergency,2024-04-17,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-04-01
+60,Female,A+,Arthritis,2024-07-12,General Hospital,Medicare,3315.8,322,Emergency,2024-07-17,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-07-01
+57,Male,O+,Hypertension,2023-04-15,General Hospital,Cigna,40968.94,180,Emergency,2023-04-18,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-04-01
+66,Female,O+,Bronchitis,2023-07-21,City Medical Center,Cigna,20589.32,229,Elective,2023-07-23,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-07-01
+45,Female,O+,Bronchitis,2023-03-29,General Hospital,UnitedHealthcare,34548.6,445,Emergency,2023-04-01,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-03-01
+78,Male,A+,Hypertension,2024-01-05,Memorial Health System,UnitedHealthcare,31203.03,211,Elective,2024-01-15,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2024-01-01
+86,Male,O+,Arthritis,2024-01-26,St. Jude Clinic,Aetna,42014.99,199,Urgent,2024-01-31,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-01-01
+87,Female,AB+,Cancer,2024-02-02,St. Jude Clinic,Cigna,21294.99,119,Urgent,2024-02-03,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-02-01
+34,Female,A+,Asthma,2023-09-25,University Hospital,Medicare,47537.87,149,Emergency,2023-09-29,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-09-01
+63,Male,B+,Asthma,2024-11-23,Mercy Hospital,Cigna,10495.59,196,Urgent,2024-11-26,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-11-01
+33,Male,O+,Asthma,2024-06-05,General Hospital,Medicare,11588.64,137,Elective,2024-06-09,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-06-01
+73,Male,B+,Diabetes,2023-05-01,University Hospital,Aetna,23036.62,162,Urgent,2023-05-05,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-05-01
+58,Male,A+,Arthritis,2024-08-23,University Hospital,UnitedHealthcare,23365.11,445,Emergency,2024-08-28,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-08-01
+22,Male,O+,Diabetes,2023-02-06,Mercy Hospital,Blue Cross,43888.52,383,Emergency,2023-02-14,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2023-02-01
+31,Female,O+,Diabetes,2024-12-06,Memorial Health System,Medicare,24202.25,158,Emergency,2024-12-10,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-12-01
+40,Female,A+,Hypertension,2023-06-12,St. Jude Clinic,UnitedHealthcare,6539.31,147,Emergency,2023-06-26,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,14,2023-06-01
+64,Male,B-,Asthma,2024-02-22,Mercy Hospital,UnitedHealthcare,15239.77,115,Urgent,2024-02-25,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-02-01
+45,Female,O+,Bronchitis,2023-02-15,General Hospital,Aetna,44425.6,114,Elective,2023-02-17,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-02-01
+71,Male,AB-,Arthritis,2023-10-14,St. Jude Clinic,Medicare,46170.59,345,Elective,2023-10-17,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-10-01
+69,Male,A+,Bronchitis,2024-04-08,University Hospital,Cigna,39794.28,120,Elective,2024-04-11,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-04-01
+60,Female,AB+,Diabetes,2024-01-11,St. Jude Clinic,Aetna,10397.02,316,Emergency,2024-01-15,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-01-01
+73,Female,O+,Cancer,2023-10-07,University Hospital,UnitedHealthcare,7418.62,453,Emergency,2023-10-12,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-10-01
+63,Female,A+,Asthma,2024-02-08,General Hospital,Cigna,21633.52,227,Emergency,2024-02-11,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-02-01
+26,Male,A+,Arthritis,2024-12-15,Memorial Health System,Cigna,5535.25,420,Elective,2024-12-17,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-12-01
+28,Male,B+,Asthma,2023-08-13,University Hospital,Medicare,31401.11,113,Elective,2023-08-14,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-08-01
+76,Male,O+,Hypertension,2024-01-14,Memorial Health System,Cigna,25876.82,327,Emergency,2024-01-17,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-01-01
+71,Male,O+,Diabetes,2023-07-25,St. Jude Clinic,Cigna,28427.97,477,Elective,2023-07-27,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-07-01
+63,Male,O+,Diabetes,2023-12-14,St. Jude Clinic,Blue Cross,30376.74,488,Urgent,2023-12-18,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-12-01
+76,Male,O+,Arthritis,2024-08-27,Memorial Health System,UnitedHealthcare,23529.08,138,Elective,2024-09-01,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-08-01
+65,Male,A+,Bronchitis,2023-10-28,St. Jude Clinic,Cigna,42641.46,198,Emergency,2023-11-08,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,11,2023-10-01
+24,Male,O+,Hypertension,2023-12-24,Memorial Health System,Cigna,20916.09,245,Elective,2024-01-03,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2023-12-01
+56,Female,A+,Bronchitis,2024-11-14,Mercy Hospital,Blue Cross,24568.57,224,Emergency,2024-12-03,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,19,2024-11-01
+58,Female,AB+,Cancer,2024-10-08,Memorial Health System,Blue Cross,25627.56,155,Elective,2024-10-20,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,12,2024-10-01
+42,Male,A+,Arthritis,2023-06-08,Memorial Health System,Blue Cross,32661.63,309,Elective,2023-06-16,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2023-06-01
+86,Male,A+,Arthritis,2024-10-14,General Hospital,Blue Cross,15637.18,235,Urgent,2024-10-28,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,14,2024-10-01
+41,Male,A+,Arthritis,2024-01-13,Mercy Hospital,UnitedHealthcare,43511.14,261,Emergency,2024-01-16,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-01-01
+52,Female,O-,Bronchitis,2024-06-25,St. Jude Clinic,Medicare,16725.25,475,Elective,2024-06-30,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-06-01
+83,Female,A+,Arthritis,2023-02-23,Mercy Hospital,Cigna,42500.79,265,Elective,2023-03-09,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,14,2023-02-01
+59,Male,A+,Asthma,2024-05-28,City Medical Center,Blue Cross,39628.72,335,Emergency,2024-06-01,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-05-01
+31,Male,O+,Arthritis,2024-06-23,University Hospital,Blue Cross,38700.92,142,Emergency,2024-07-16,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,23,2024-06-01
+61,Male,O+,Asthma,2024-01-22,City Medical Center,Cigna,44882.98,284,Elective,2024-01-28,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-01-01
+31,Female,O+,Cancer,2024-09-14,City Medical Center,Medicare,31028.48,321,Emergency,2024-09-16,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-09-01
+23,Female,A+,Bronchitis,2023-07-31,Mercy Hospital,Cigna,10083.75,376,Elective,2023-08-21,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,21,2023-07-01
+53,Female,O+,Arthritis,2023-09-22,Memorial Health System,Blue Cross,32001.29,191,Elective,2023-09-23,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-09-01
+64,Male,A+,Asthma,2023-05-18,Memorial Health System,Cigna,23942.08,454,Elective,2023-05-19,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-05-01
+65,Female,A+,Hypertension,2024-12-11,St. Jude Clinic,UnitedHealthcare,42787.44,433,Elective,2024-12-21,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2024-12-01
+75,Male,A-,Hypertension,2024-09-18,Mercy Hospital,UnitedHealthcare,37268.66,208,Elective,2024-09-20,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-09-01
+40,Male,B+,Bronchitis,2024-08-16,University Hospital,Blue Cross,41849.03,270,Elective,2024-08-23,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2024-08-01
+85,Male,O+,Bronchitis,2024-02-13,General Hospital,UnitedHealthcare,30862.47,307,Urgent,2024-02-14,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-02-01
+44,Male,A+,Asthma,2024-09-11,St. Jude Clinic,Aetna,24134.09,196,Emergency,2024-09-14,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-09-01
+43,Male,A+,Hypertension,2023-07-21,Mercy Hospital,Cigna,44992.31,485,Emergency,2023-07-25,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-07-01
+72,Female,O+,Arthritis,2023-03-14,University Hospital,Cigna,31724.25,129,Emergency,2023-03-16,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-03-01
+30,Female,A+,Cancer,2024-10-20,Mercy Hospital,Medicare,15297.5,427,Elective,2024-10-30,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2024-10-01
+75,Female,O+,Hypertension,2023-12-01,General Hospital,Aetna,45940.2,161,Emergency,2023-12-03,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-12-01
+19,Male,A+,Cancer,2023-02-15,General Hospital,Blue Cross,17588.02,390,Urgent,2023-02-18,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-02-01
+40,Male,O+,Hypertension,2023-09-04,City Medical Center,Medicare,44787.88,368,Urgent,2023-09-13,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2023-09-01
+79,Female,O+,Diabetes,2023-05-11,Memorial Health System,UnitedHealthcare,33916.02,328,Urgent,2023-05-13,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-05-01
+20,Female,B+,Cancer,2023-05-30,City Medical Center,UnitedHealthcare,9972.16,246,Emergency,2023-06-02,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-05-01
+58,Female,B+,Hypertension,2023-03-02,City Medical Center,UnitedHealthcare,18713.92,356,Elective,2023-03-21,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,19,2023-03-01
+80,Female,A+,Arthritis,2023-01-20,St. Jude Clinic,Blue Cross,44642.99,423,Elective,2023-01-22,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-01-01
+22,Male,O+,Cancer,2024-11-12,City Medical Center,Blue Cross,46972.88,462,Urgent,2024-11-13,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-11-01
+56,Female,O-,Asthma,2023-12-20,University Hospital,Medicare,23693.47,288,Emergency,2023-12-27,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2023-12-01
+51,Male,B+,Cancer,2024-06-12,General Hospital,Blue Cross,16425.44,154,Emergency,2024-06-27,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,15,2024-06-01
+82,Male,B+,Cancer,2023-03-23,Mercy Hospital,Blue Cross,5128.55,102,Urgent,2023-04-02,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2023-03-01
+80,Female,O+,Diabetes,2023-07-30,Mercy Hospital,UnitedHealthcare,31585.16,379,Elective,2023-07-31,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-07-01
+37,Female,O+,Hypertension,2023-06-23,City Medical Center,Cigna,43536.63,388,Emergency,2023-06-30,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2023-06-01
+58,Male,AB+,Arthritis,2023-09-30,Memorial Health System,Aetna,40178.69,190,Emergency,2023-10-02,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-09-01
+42,Female,A-,Asthma,2023-04-04,University Hospital,Aetna,26781.43,139,Urgent,2023-04-08,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-04-01
+27,Female,B+,Cancer,2023-11-26,University Hospital,Medicare,9285.87,208,Emergency,2023-11-30,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-11-01
+89,Female,O+,Arthritis,2024-03-04,University Hospital,Aetna,40412.4,283,Elective,2024-03-09,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-03-01
+32,Female,A+,Bronchitis,2024-11-20,City Medical Center,Aetna,41955.26,402,Urgent,2024-11-26,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-11-01
+41,Female,A-,Arthritis,2023-06-28,University Hospital,Cigna,46805.91,495,Emergency,2023-06-30,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-06-01
+66,Female,O+,Hypertension,2023-03-15,General Hospital,Cigna,6123.77,209,Elective,2023-03-19,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-03-01
+52,Female,A+,Hypertension,2023-10-31,St. Jude Clinic,Aetna,41625.48,112,Elective,2023-11-12,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,12,2023-10-01
+23,Female,A+,Diabetes,2024-04-17,St. Jude Clinic,Aetna,10736.64,166,Emergency,2024-04-22,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-04-01
+45,Male,B+,Asthma,2023-12-12,General Hospital,Medicare,18962.89,343,Elective,2023-12-15,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-12-01
+54,Female,O+,Arthritis,2023-08-19,General Hospital,UnitedHealthcare,47283.93,475,Elective,2023-09-06,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,18,2023-08-01
+36,Female,A+,Bronchitis,2024-01-01,Mercy Hospital,Aetna,22808.3,256,Elective,2024-01-07,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-01-01
+81,Male,O-,Asthma,2023-04-26,Mercy Hospital,Cigna,41527.27,479,Urgent,2023-04-28,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-04-01
+48,Male,O+,Hypertension,2024-12-26,University Hospital,Medicare,9861.39,193,Emergency,2025-01-06,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,11,2024-12-01
+72,Female,O+,Asthma,2023-04-18,City Medical Center,UnitedHealthcare,11066.01,172,Elective,2023-04-21,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-04-01
+53,Male,B+,Arthritis,2024-10-20,General Hospital,Aetna,11855.78,450,Emergency,2024-10-24,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-10-01
+19,Female,O+,Diabetes,2023-11-22,St. Jude Clinic,UnitedHealthcare,3540.41,167,Elective,2023-12-01,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2023-11-01
+67,Female,B+,Asthma,2024-08-23,St. Jude Clinic,Aetna,33793.4,135,Emergency,2024-08-28,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-08-01
+34,Male,A+,Hypertension,2024-06-25,Memorial Health System,Blue Cross,2715.7,182,Urgent,2024-06-30,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-06-01
+64,Male,O+,Bronchitis,2024-09-09,St. Jude Clinic,Blue Cross,19897.57,304,Emergency,2024-09-16,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2024-09-01
+46,Female,A+,Hypertension,2023-04-13,St. Jude Clinic,Cigna,46839.67,261,Elective,2023-04-18,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-04-01
+51,Male,O+,Bronchitis,2023-12-11,City Medical Center,Medicare,36388.98,462,Elective,2023-12-15,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-12-01
+61,Female,O+,Arthritis,2023-09-15,City Medical Center,Blue Cross,43821.18,232,Emergency,2023-09-18,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-09-01
+49,Male,O-,Hypertension,2024-01-28,Mercy Hospital,Blue Cross,38782.2,130,Emergency,2024-01-31,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-01-01
+31,Male,A+,Bronchitis,2023-07-03,Mercy Hospital,Cigna,12251.78,454,Urgent,2023-07-05,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-07-01
+50,Male,B+,Arthritis,2024-01-25,University Hospital,Blue Cross,31705.11,110,Emergency,2024-01-30,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-01-01
+52,Female,A+,Asthma,2023-07-16,Memorial Health System,Cigna,6465.71,223,Urgent,2023-07-29,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,13,2023-07-01
+39,Male,AB+,Hypertension,2024-10-15,University Hospital,Medicare,18201.01,476,Emergency,2024-10-24,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2024-10-01
+67,Male,O+,Cancer,2023-07-11,Memorial Health System,Cigna,46969.95,170,Urgent,2023-07-14,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-07-01
+54,Male,A+,Cancer,2024-07-12,University Hospital,Cigna,5551.95,218,Elective,2024-07-16,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-07-01
+19,Male,O+,Bronchitis,2023-07-12,Memorial Health System,Aetna,39465.29,138,Elective,2023-07-15,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-07-01
+19,Male,B-,Cancer,2024-02-29,Mercy Hospital,UnitedHealthcare,27326.17,197,Emergency,2024-03-02,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-02-01
+51,Male,A+,Hypertension,2023-02-18,University Hospital,Cigna,13665.63,308,Emergency,2023-02-22,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-02-01
+65,Female,O+,Cancer,2024-04-04,Memorial Health System,Cigna,9310.34,217,Elective,2024-04-13,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2024-04-01
+41,Female,O-,Cancer,2023-01-22,City Medical Center,UnitedHealthcare,22452.29,213,Elective,2023-01-29,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2023-01-01
+54,Female,AB+,Cancer,2024-01-12,General Hospital,Blue Cross,36208.83,304,Elective,2024-01-17,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-01-01
+50,Male,AB+,Arthritis,2023-05-12,Mercy Hospital,Aetna,45214.18,240,Urgent,2023-05-23,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,11,2023-05-01
+37,Male,A+,Arthritis,2024-08-01,University Hospital,Medicare,37998.78,440,Elective,2024-08-12,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,11,2024-08-01
+61,Male,O-,Arthritis,2023-07-06,St. Jude Clinic,UnitedHealthcare,40571.25,107,Elective,2023-07-09,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-07-01
+45,Female,O+,Hypertension,2023-02-22,St. Jude Clinic,Blue Cross,30892.19,124,Emergency,2023-02-26,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-02-01
+73,Female,A+,Asthma,2024-09-28,Memorial Health System,Medicare,8405.04,253,Elective,2024-09-30,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-09-01
+25,Male,O+,Cancer,2023-02-28,Memorial Health System,Cigna,9307.2,367,Urgent,2023-03-07,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2023-02-01
+54,Male,O+,Arthritis,2024-11-12,St. Jude Clinic,UnitedHealthcare,30760.25,456,Elective,2024-11-20,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2024-11-01
+28,Male,O+,Cancer,2024-12-02,Mercy Hospital,Aetna,12741.29,393,Emergency,2024-12-06,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-12-01
+77,Male,B+,Asthma,2024-02-08,General Hospital,Medicare,41218.31,321,Emergency,2024-02-11,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-02-01
+87,Female,O+,Diabetes,2023-06-11,University Hospital,Medicare,16674.84,398,Emergency,2023-06-16,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-06-01
+33,Female,A-,Arthritis,2023-03-28,Mercy Hospital,Medicare,38286.48,121,Emergency,2023-04-05,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2023-03-01
+55,Female,O+,Arthritis,2023-08-16,University Hospital,UnitedHealthcare,27912.8,325,Emergency,2023-08-19,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-08-01
+18,Female,A+,Hypertension,2024-07-22,St. Jude Clinic,Cigna,39317.66,238,Elective,2024-07-23,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-07-01
+47,Male,A+,Diabetes,2024-10-21,St. Jude Clinic,Cigna,47580.31,169,Emergency,2024-11-02,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,12,2024-10-01
+75,Female,A+,Cancer,2024-06-22,General Hospital,UnitedHealthcare,15310.01,304,Urgent,2024-07-07,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,15,2024-06-01
+37,Male,O+,Arthritis,2023-06-23,Memorial Health System,Blue Cross,10626.83,284,Emergency,2023-07-04,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,11,2023-06-01
+85,Male,A-,Diabetes,2023-06-23,General Hospital,Cigna,35310.4,310,Emergency,2023-06-30,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2023-06-01
+33,Female,A+,Arthritis,2023-01-03,St. Jude Clinic,Medicare,3205.65,264,Elective,2023-01-07,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-01-01
+83,Female,A+,Cancer,2024-08-29,Mercy Hospital,Aetna,46859.57,105,Emergency,2024-08-31,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-08-01
+32,Female,AB+,Asthma,2024-12-03,St. Jude Clinic,UnitedHealthcare,23069.78,323,Emergency,2024-12-06,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-12-01
+89,Female,B-,Cancer,2024-02-06,St. Jude Clinic,Blue Cross,4707.27,288,Emergency,2024-02-09,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-02-01
+49,Female,O+,Diabetes,2023-05-18,University Hospital,Medicare,11630.31,177,Emergency,2023-05-29,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,11,2023-05-01
+40,Male,A+,Bronchitis,2024-04-25,University Hospital,Medicare,7284.89,285,Emergency,2024-04-29,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-04-01
+64,Male,A+,Bronchitis,2024-08-18,Mercy Hospital,Blue Cross,3178.46,151,Urgent,2024-08-22,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-08-01
+89,Female,O+,Bronchitis,2024-10-30,General Hospital,Cigna,44917.61,207,Elective,2024-11-02,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-10-01
+60,Male,A+,Bronchitis,2024-12-08,General Hospital,Medicare,11189.37,411,Emergency,2024-12-17,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2024-12-01
+63,Male,O-,Arthritis,2024-04-19,Memorial Health System,UnitedHealthcare,46653.56,476,Urgent,2024-04-22,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-04-01
+45,Male,A+,Diabetes,2023-06-17,Memorial Health System,Aetna,18623.32,300,Emergency,2023-06-26,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2023-06-01
+21,Female,A+,Hypertension,2023-03-28,Mercy Hospital,Aetna,44921.05,460,Elective,2023-03-30,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-03-01
+72,Male,O+,Diabetes,2024-05-10,Mercy Hospital,UnitedHealthcare,8651.05,356,Elective,2024-05-12,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-05-01
+58,Female,A+,Arthritis,2023-08-06,Mercy Hospital,Aetna,41365.94,330,Emergency,2023-08-15,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2023-08-01
+50,Female,O+,Diabetes,2023-11-28,St. Jude Clinic,Blue Cross,37211.92,478,Emergency,2023-11-29,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-11-01
+19,Female,O+,Bronchitis,2023-07-21,City Medical Center,Blue Cross,31637.87,486,Urgent,2023-07-23,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-07-01
+20,Female,A+,Hypertension,2023-04-20,City Medical Center,UnitedHealthcare,39717.45,276,Emergency,2023-04-22,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-04-01
+64,Female,B+,Hypertension,2023-04-29,St. Jude Clinic,Blue Cross,25359.85,230,Emergency,2023-05-03,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-04-01
+24,Female,O+,Bronchitis,2024-09-10,St. Jude Clinic,Cigna,19456.22,177,Emergency,2024-09-11,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-09-01
+54,Male,B+,Arthritis,2024-12-27,St. Jude Clinic,Aetna,43028.26,202,Urgent,2025-01-05,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2024-12-01
+70,Male,B+,Bronchitis,2023-02-23,St. Jude Clinic,UnitedHealthcare,5649.75,226,Emergency,2023-02-26,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-02-01
+46,Female,A+,Hypertension,2024-07-22,General Hospital,Blue Cross,5866.82,298,Emergency,2024-07-25,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-07-01
+43,Male,O+,Diabetes,2023-01-27,University Hospital,Cigna,35432.95,454,Elective,2023-02-01,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-01-01
+61,Female,AB+,Cancer,2023-08-14,Mercy Hospital,Blue Cross,45881.98,118,Emergency,2023-08-22,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2023-08-01
+55,Female,B+,Asthma,2024-08-14,City Medical Center,UnitedHealthcare,11432.12,349,Elective,2024-08-23,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2024-08-01
+45,Female,O+,Diabetes,2023-04-20,City Medical Center,Aetna,22342.55,449,Emergency,2023-05-05,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,15,2023-04-01
+71,Male,A+,Arthritis,2024-12-29,General Hospital,UnitedHealthcare,11749.82,201,Urgent,2025-01-03,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-12-01
+79,Female,A+,Asthma,2024-06-10,Mercy Hospital,Aetna,44617.64,392,Emergency,2024-07-06,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,26,2024-06-01
+56,Male,AB-,Arthritis,2023-01-23,General Hospital,UnitedHealthcare,27946.57,180,Urgent,2023-01-31,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2023-01-01
+85,Female,A+,Cancer,2023-11-13,University Hospital,Aetna,19565.11,390,Elective,2023-11-16,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-11-01
+53,Female,O+,Asthma,2023-12-05,Memorial Health System,Aetna,9984.57,187,Emergency,2023-12-07,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-12-01
+86,Female,A+,Diabetes,2023-05-21,General Hospital,Aetna,46652.52,176,Emergency,2023-05-28,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2023-05-01
+49,Female,AB+,Asthma,2024-07-27,General Hospital,Medicare,19977.35,464,Elective,2024-08-02,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-07-01
+70,Female,A+,Asthma,2023-09-24,General Hospital,Cigna,24594.96,395,Elective,2023-10-03,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2023-09-01
+81,Female,O-,Hypertension,2023-12-31,University Hospital,Cigna,12526.42,408,Emergency,2024-01-10,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2023-12-01
+74,Female,A+,Arthritis,2024-08-08,City Medical Center,UnitedHealthcare,17734.27,143,Urgent,2024-08-10,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-08-01
+40,Female,O+,Diabetes,2023-05-03,University Hospital,Aetna,32192.19,447,Elective,2023-05-10,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2023-05-01
+21,Female,O+,Diabetes,2024-05-07,University Hospital,Cigna,36764.32,275,Elective,2024-05-08,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-05-01
+79,Female,A+,Asthma,2023-12-03,Mercy Hospital,Aetna,11540.44,444,Emergency,2023-12-08,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-12-01
+42,Male,A+,Bronchitis,2024-01-02,City Medical Center,Blue Cross,15501.94,290,Elective,2024-01-05,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-01-01
+53,Male,O+,Hypertension,2023-04-10,University Hospital,Cigna,11572.78,385,Elective,2023-04-14,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-04-01
+88,Female,AB+,Bronchitis,2024-12-10,St. Jude Clinic,Aetna,28275.54,478,Emergency,2024-12-13,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-12-01
+24,Female,A+,Asthma,2024-04-02,General Hospital,Cigna,10146.4,332,Urgent,2024-04-03,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-04-01
+54,Female,O+,Bronchitis,2024-08-25,General Hospital,Medicare,45435.22,455,Emergency,2024-08-28,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-08-01
+61,Male,A+,Arthritis,2023-07-31,City Medical Center,Medicare,25450.57,366,Elective,2023-08-03,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-07-01
+53,Male,O+,Bronchitis,2024-05-18,General Hospital,Cigna,4641.66,117,Urgent,2024-05-22,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-05-01
+63,Male,O+,Hypertension,2023-10-08,Memorial Health System,UnitedHealthcare,42895.23,263,Emergency,2023-10-17,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2023-10-01
+31,Male,A+,Asthma,2024-05-25,Mercy Hospital,Blue Cross,11453.38,497,Emergency,2024-06-04,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2024-05-01
+61,Male,A+,Cancer,2024-06-19,Memorial Health System,Medicare,11010.06,276,Emergency,2024-06-21,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-06-01
+23,Female,O+,Diabetes,2024-08-14,General Hospital,Aetna,28258.75,265,Emergency,2024-08-20,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-08-01
+71,Female,A-,Asthma,2024-06-11,St. Jude Clinic,Aetna,29177.78,488,Elective,2024-06-17,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-06-01
+77,Male,O+,Cancer,2023-01-03,City Medical Center,Aetna,46633.7,348,Emergency,2023-01-05,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-01-01
+48,Male,A-,Diabetes,2023-08-12,St. Jude Clinic,UnitedHealthcare,14142.29,208,Urgent,2023-09-08,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,27,2023-08-01
+54,Female,O+,Bronchitis,2023-05-29,Mercy Hospital,UnitedHealthcare,38868.24,364,Emergency,2023-06-03,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-05-01
+41,Male,O+,Asthma,2023-07-14,General Hospital,Medicare,8787.36,230,Emergency,2023-07-15,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-07-01
+85,Female,O+,Diabetes,2024-06-05,St. Jude Clinic,Blue Cross,13644.14,234,Emergency,2024-06-09,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-06-01
+34,Male,A+,Hypertension,2023-12-07,St. Jude Clinic,Aetna,41738.85,128,Emergency,2023-12-23,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,16,2023-12-01
+77,Male,A+,Diabetes,2024-10-08,Memorial Health System,Blue Cross,30612.41,488,Emergency,2024-10-11,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-10-01
+65,Female,O+,Asthma,2024-10-20,Memorial Health System,Medicare,15449.34,483,Urgent,2024-10-23,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-10-01
+18,Male,B-,Diabetes,2023-10-28,St. Jude Clinic,Blue Cross,32227.52,498,Elective,2023-10-29,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-10-01
+75,Male,A+,Arthritis,2023-06-19,General Hospital,Cigna,45609.92,452,Urgent,2023-06-22,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-06-01
+72,Female,A+,Bronchitis,2024-01-10,University Hospital,UnitedHealthcare,23387.07,339,Emergency,2024-01-16,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-01-01
+72,Male,A+,Cancer,2024-11-16,Mercy Hospital,UnitedHealthcare,13695.05,359,Emergency,2024-11-26,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2024-11-01
+86,Female,O+,Asthma,2024-02-12,Mercy Hospital,UnitedHealthcare,26695.36,384,Elective,2024-02-14,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-02-01
+44,Male,O+,Arthritis,2024-05-18,St. Jude Clinic,Blue Cross,36370.59,119,Emergency,2024-05-22,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-05-01
+65,Male,O+,Cancer,2023-06-07,Mercy Hospital,UnitedHealthcare,9506.81,463,Emergency,2023-06-10,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-06-01
+49,Male,A+,Cancer,2024-09-10,General Hospital,Blue Cross,41932.56,105,Emergency,2024-09-15,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-09-01
+36,Male,O+,Asthma,2023-08-15,Memorial Health System,UnitedHealthcare,31833.3,196,Emergency,2023-08-18,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-08-01
+64,Female,O-,Diabetes,2024-07-07,Memorial Health System,Blue Cross,47265.25,447,Elective,2024-07-21,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,14,2024-07-01
+47,Female,O+,Cancer,2023-04-08,Memorial Health System,Aetna,9794.45,368,Elective,2023-04-21,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,13,2023-04-01
+65,Male,A+,Arthritis,2024-02-27,Memorial Health System,Medicare,11736.26,390,Urgent,2024-03-09,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,11,2024-02-01
+29,Male,O+,Asthma,2023-08-01,University Hospital,Blue Cross,40712.49,222,Elective,2023-08-03,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-08-01
+48,Female,O+,Hypertension,2023-11-05,St. Jude Clinic,Cigna,26635.56,144,Elective,2023-11-09,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-11-01
+67,Female,A-,Bronchitis,2024-03-02,General Hospital,Medicare,7788.21,293,Elective,2024-03-07,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-03-01
+49,Female,A+,Bronchitis,2024-11-13,Memorial Health System,Aetna,40051.98,323,Urgent,2024-11-18,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-11-01
+75,Male,B+,Arthritis,2023-01-26,Mercy Hospital,UnitedHealthcare,40937.81,265,Emergency,2023-01-28,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-01-01
+86,Male,A+,Hypertension,2023-04-07,Memorial Health System,UnitedHealthcare,16511.77,476,Elective,2023-04-15,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2023-04-01
+84,Male,O+,Asthma,2023-04-27,General Hospital,UnitedHealthcare,43595.79,230,Emergency,2023-05-03,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-04-01
+74,Female,A+,Cancer,2024-10-07,University Hospital,Aetna,35443.33,395,Elective,2024-10-09,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-10-01
+35,Female,B+,Arthritis,2024-02-29,St. Jude Clinic,Aetna,42691.49,173,Emergency,2024-03-10,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2024-02-01
+74,Male,B+,Hypertension,2023-09-09,St. Jude Clinic,Blue Cross,17667.93,293,Urgent,2023-10-07,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,28,2023-09-01
+65,Female,A-,Cancer,2024-03-19,City Medical Center,Aetna,47829.44,293,Emergency,2024-04-01,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,13,2024-03-01
+61,Male,A+,Hypertension,2024-11-15,University Hospital,Blue Cross,8348.39,372,Elective,2024-11-26,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,11,2024-11-01
+45,Female,A+,Cancer,2024-04-10,Mercy Hospital,Blue Cross,3765.73,366,Emergency,2024-04-14,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-04-01
+54,Female,O+,Asthma,2023-03-26,St. Jude Clinic,Cigna,3075.01,233,Emergency,2023-04-02,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2023-03-01
+55,Female,A-,Asthma,2023-02-02,City Medical Center,Medicare,12553.66,321,Elective,2023-02-16,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,14,2023-02-01
+64,Male,O+,Arthritis,2023-04-14,General Hospital,UnitedHealthcare,34195.19,102,Urgent,2023-04-17,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-04-01
+75,Male,A+,Cancer,2024-11-15,St. Jude Clinic,Aetna,3971.65,401,Elective,2024-11-20,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-11-01
+20,Male,O+,Hypertension,2024-02-02,General Hospital,Cigna,19162.57,394,Elective,2024-02-06,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-02-01
+38,Male,B+,Bronchitis,2023-05-10,St. Jude Clinic,Medicare,25860.17,492,Elective,2023-05-19,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2023-05-01
+44,Male,B+,Hypertension,2023-10-28,University Hospital,Aetna,46047.62,440,Urgent,2023-11-07,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2023-10-01
+29,Female,A+,Bronchitis,2023-09-13,City Medical Center,Blue Cross,7245.26,149,Urgent,2023-09-15,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-09-01
+26,Male,A+,Diabetes,2023-05-06,University Hospital,Aetna,8511.92,115,Urgent,2023-05-14,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2023-05-01
+40,Male,A-,Diabetes,2024-06-30,City Medical Center,Aetna,30638.11,484,Elective,2024-07-02,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-06-01
+75,Female,A+,Asthma,2023-06-05,St. Jude Clinic,Medicare,16723.53,298,Emergency,2023-06-18,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,13,2023-06-01
+51,Female,A+,Asthma,2024-07-10,St. Jude Clinic,UnitedHealthcare,24758.76,300,Elective,2024-07-16,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-07-01
+29,Male,O+,Arthritis,2023-05-24,City Medical Center,Blue Cross,38456.94,162,Urgent,2023-05-29,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-05-01
+44,Female,A+,Arthritis,2024-04-08,General Hospital,UnitedHealthcare,3196.75,299,Emergency,2024-04-13,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-04-01
+83,Female,O+,Cancer,2023-08-25,General Hospital,Aetna,20565.45,165,Elective,2023-08-28,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-08-01
+72,Male,A+,Hypertension,2023-05-16,St. Jude Clinic,Cigna,33160.66,133,Emergency,2023-05-21,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-05-01
+31,Female,B+,Cancer,2023-09-06,Mercy Hospital,UnitedHealthcare,33769.71,213,Emergency,2023-09-12,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-09-01
+60,Male,A+,Arthritis,2024-05-17,Memorial Health System,Blue Cross,43637.36,267,Emergency,2024-05-20,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-05-01
+75,Female,A+,Cancer,2024-09-05,City Medical Center,Medicare,43993.16,327,Elective,2024-09-12,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2024-09-01
+22,Female,A+,Hypertension,2023-04-12,St. Jude Clinic,Aetna,14537.68,361,Emergency,2023-04-17,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-04-01
+36,Male,O+,Bronchitis,2023-04-05,General Hospital,UnitedHealthcare,47329,405,Elective,2023-04-10,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-04-01
+86,Male,B+,Bronchitis,2023-09-13,City Medical Center,Aetna,5583.12,469,Elective,2023-09-14,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-09-01
+25,Male,O+,Asthma,2023-08-21,City Medical Center,Blue Cross,26182.36,209,Elective,2023-08-23,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-08-01
+52,Female,A+,Hypertension,2024-06-05,University Hospital,Blue Cross,42732.5,222,Emergency,2024-06-15,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2024-06-01
+71,Male,A+,Cancer,2024-01-14,General Hospital,Medicare,11644.98,263,Emergency,2024-01-29,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,15,2024-01-01
+42,Female,O+,Bronchitis,2023-07-07,St. Jude Clinic,Medicare,29306.94,188,Emergency,2023-07-10,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-07-01
+83,Female,O+,Asthma,2023-11-27,Mercy Hospital,Medicare,8826.6,366,Elective,2023-12-10,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,13,2023-11-01
+28,Male,O+,Asthma,2023-06-10,Mercy Hospital,Aetna,44943.16,122,Elective,2023-06-12,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-06-01
+43,Male,A+,Hypertension,2023-08-02,St. Jude Clinic,UnitedHealthcare,15801.92,499,Emergency,2023-08-07,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-08-01
+67,Female,O+,Hypertension,2023-09-28,Mercy Hospital,Aetna,14715.14,106,Urgent,2023-10-01,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-09-01
+29,Male,O+,Bronchitis,2023-03-09,General Hospital,UnitedHealthcare,17736.51,238,Elective,2023-03-19,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2023-03-01
+40,Male,AB+,Hypertension,2024-09-06,General Hospital,Blue Cross,12330.01,177,Urgent,2024-09-08,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-09-01
+18,Female,O+,Hypertension,2024-05-05,St. Jude Clinic,Medicare,7639.14,267,Urgent,2024-05-06,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-05-01
+43,Female,O+,Diabetes,2023-05-18,St. Jude Clinic,Blue Cross,41954.46,405,Elective,2023-05-30,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,12,2023-05-01
+84,Male,O+,Hypertension,2024-12-12,General Hospital,Aetna,35488,300,Emergency,2024-12-14,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-12-01
+78,Female,O+,Cancer,2023-08-11,Memorial Health System,UnitedHealthcare,45081.68,419,Elective,2023-08-21,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2023-08-01
+39,Male,AB+,Asthma,2023-12-21,University Hospital,Cigna,44485.66,312,Elective,2023-12-26,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-12-01
+23,Male,A+,Hypertension,2024-11-15,University Hospital,Medicare,7493.34,453,Emergency,2024-12-01,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,16,2024-11-01
+77,Female,B+,Diabetes,2023-03-25,University Hospital,Aetna,17459.26,487,Elective,2023-04-01,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2023-03-01
+22,Female,O+,Asthma,2024-11-25,University Hospital,Cigna,35873.02,204,Emergency,2024-11-27,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-11-01
+41,Female,A+,Asthma,2023-04-30,City Medical Center,Medicare,9283.71,298,Elective,2023-05-08,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2023-04-01
+31,Female,O+,Cancer,2024-11-18,St. Jude Clinic,Medicare,34526.88,226,Emergency,2024-11-21,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-11-01
+89,Male,B+,Asthma,2023-01-08,Mercy Hospital,UnitedHealthcare,7111.42,295,Emergency,2023-01-09,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-01-01
+89,Male,A+,Asthma,2023-04-15,St. Jude Clinic,Blue Cross,30569.03,196,Emergency,2023-04-25,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2023-04-01
+55,Male,A-,Cancer,2023-06-25,General Hospital,Aetna,37962.47,259,Emergency,2023-06-28,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-06-01
+74,Female,A+,Diabetes,2024-08-09,General Hospital,Blue Cross,28835.3,279,Emergency,2024-08-15,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-08-01
+56,Female,O+,Bronchitis,2023-05-21,General Hospital,Medicare,25822.1,185,Elective,2023-05-24,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-05-01
+62,Female,A+,Cancer,2023-04-13,Mercy Hospital,Cigna,15587.99,460,Urgent,2023-04-15,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-04-01
+27,Female,O+,Hypertension,2024-06-13,General Hospital,Cigna,3792.18,453,Urgent,2024-06-16,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-06-01
+62,Male,O+,Bronchitis,2023-12-07,General Hospital,Medicare,16618.4,321,Emergency,2023-12-08,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-12-01
+20,Male,B+,Diabetes,2023-05-13,General Hospital,Aetna,23009.33,215,Emergency,2023-05-17,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-05-01
+50,Female,O+,Diabetes,2024-06-26,Mercy Hospital,Aetna,6471.03,471,Urgent,2024-07-05,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2024-06-01
+39,Male,O+,Bronchitis,2023-11-08,Memorial Health System,Blue Cross,25255.96,431,Emergency,2023-11-28,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,20,2023-11-01
+22,Female,B-,Arthritis,2024-06-15,Mercy Hospital,Aetna,47959.52,345,Elective,2024-06-17,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-06-01
+76,Female,A+,Diabetes,2024-12-22,University Hospital,Blue Cross,11572.55,225,Elective,2024-12-24,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-12-01
+62,Female,A+,Diabetes,2023-04-13,General Hospital,Cigna,43612.31,200,Urgent,2023-04-15,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-04-01
+87,Male,A+,Diabetes,2024-12-07,Mercy Hospital,Blue Cross,7549.59,461,Elective,2024-12-09,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-12-01
+85,Female,A+,Cancer,2023-09-21,St. Jude Clinic,Cigna,30072.86,241,Emergency,2023-09-24,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-09-01
+44,Female,A+,Hypertension,2023-10-02,St. Jude Clinic,Cigna,17300.21,170,Urgent,2023-10-06,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-10-01
+27,Female,A+,Asthma,2023-04-24,Mercy Hospital,Cigna,41687.03,182,Elective,2023-05-07,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,13,2023-04-01
+67,Female,AB+,Diabetes,2023-09-23,St. Jude Clinic,Aetna,13476.41,337,Urgent,2023-09-26,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-09-01
+81,Female,A+,Asthma,2023-07-26,Mercy Hospital,Cigna,16156.18,466,Urgent,2023-07-29,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-07-01
+89,Male,A+,Diabetes,2023-09-25,University Hospital,Aetna,13876.58,479,Emergency,2023-09-27,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-09-01
+88,Female,AB-,Hypertension,2023-06-12,Mercy Hospital,Medicare,34969.7,263,Emergency,2023-06-14,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-06-01
+29,Male,A+,Hypertension,2024-11-22,University Hospital,Blue Cross,2984.06,262,Elective,2024-12-07,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,15,2024-11-01
+34,Male,A+,Diabetes,2024-09-15,General Hospital,Cigna,21895.08,407,Emergency,2024-09-20,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-09-01
+77,Male,B+,Arthritis,2023-02-01,City Medical Center,Cigna,22549.37,157,Elective,2023-02-11,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2023-02-01
+53,Female,O+,Arthritis,2024-12-01,St. Jude Clinic,Aetna,32036.39,466,Elective,2024-12-05,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-12-01
+18,Female,A+,Diabetes,2024-07-19,General Hospital,Medicare,40201.79,228,Elective,2024-07-21,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-07-01
+27,Male,A+,Diabetes,2024-05-04,University Hospital,Aetna,28990.6,233,Emergency,2024-05-12,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2024-05-01
+41,Male,O+,Bronchitis,2024-02-22,City Medical Center,Medicare,42368.63,414,Elective,2024-02-26,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-02-01
+80,Female,O-,Hypertension,2024-05-02,Memorial Health System,Medicare,15425.49,210,Emergency,2024-05-05,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-05-01
+18,Female,A+,Arthritis,2024-10-02,City Medical Center,Cigna,47134.44,192,Urgent,2024-10-05,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-10-01
+83,Male,O+,Arthritis,2024-04-05,Memorial Health System,Blue Cross,38539.93,452,Emergency,2024-04-08,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-04-01
+20,Female,O+,Hypertension,2024-06-02,City Medical Center,UnitedHealthcare,30009.62,199,Urgent,2024-06-06,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-06-01
+66,Male,AB+,Cancer,2023-07-22,Memorial Health System,Medicare,39434.8,347,Urgent,2023-07-24,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-07-01
+33,Male,A+,Cancer,2023-01-11,St. Jude Clinic,Medicare,9161.15,298,Emergency,2023-01-15,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-01-01
+73,Female,A+,Arthritis,2024-08-11,City Medical Center,Aetna,14259.43,257,Emergency,2024-08-13,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-08-01
+59,Female,O+,Asthma,2024-09-04,University Hospital,Blue Cross,33999.04,485,Urgent,2024-09-15,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,11,2024-09-01
+25,Female,A+,Cancer,2023-05-23,Mercy Hospital,Aetna,16563.16,195,Emergency,2023-06-04,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,12,2023-05-01
+49,Female,O+,Asthma,2023-02-06,Memorial Health System,Blue Cross,41825.66,319,Urgent,2023-02-14,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2023-02-01
+28,Female,B+,Hypertension,2024-02-02,St. Jude Clinic,UnitedHealthcare,33491.45,232,Elective,2024-02-27,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,25,2024-02-01
+18,Female,O+,Hypertension,2024-04-29,General Hospital,Aetna,46652.59,125,Elective,2024-05-01,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-04-01
+70,Female,O+,Bronchitis,2023-09-13,University Hospital,Aetna,8140.75,288,Urgent,2023-09-17,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-09-01
+79,Female,A+,Diabetes,2023-12-12,University Hospital,Aetna,38508.24,155,Emergency,2023-12-13,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-12-01
+65,Male,AB+,Bronchitis,2024-11-19,Memorial Health System,Aetna,27945.63,400,Elective,2024-11-23,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-11-01
+64,Female,A-,Cancer,2024-02-16,General Hospital,Blue Cross,44448.28,457,Urgent,2024-02-18,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-02-01
+61,Female,O+,Arthritis,2024-12-22,University Hospital,Medicare,15383.07,353,Urgent,2024-12-24,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-12-01
+38,Male,A+,Arthritis,2024-09-21,Memorial Health System,Aetna,32972.75,485,Emergency,2024-10-10,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,19,2024-09-01
+57,Male,O+,Cancer,2023-09-30,Memorial Health System,Blue Cross,11121.57,114,Elective,2023-10-06,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-09-01
+23,Female,B+,Asthma,2023-02-08,St. Jude Clinic,Cigna,7082.42,458,Urgent,2023-02-13,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-02-01
+86,Male,O+,Asthma,2024-02-22,Mercy Hospital,Blue Cross,12376.13,427,Emergency,2024-02-27,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-02-01
+37,Male,A+,Cancer,2023-07-23,Memorial Health System,Blue Cross,11350.49,176,Elective,2023-07-27,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-07-01
+61,Male,A+,Asthma,2023-08-10,Mercy Hospital,Medicare,5257.91,236,Emergency,2023-08-18,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2023-08-01
+24,Male,O+,Diabetes,2023-06-12,University Hospital,Aetna,46654.06,460,Emergency,2023-06-15,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-06-01
+81,Female,O+,Asthma,2024-10-21,St. Jude Clinic,Blue Cross,14037.54,136,Elective,2024-10-23,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-10-01
+23,Female,A+,Asthma,2024-04-18,University Hospital,UnitedHealthcare,37048.64,482,Emergency,2024-04-20,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-04-01
+69,Male,O+,Diabetes,2024-06-03,City Medical Center,Cigna,20443.74,183,Urgent,2024-06-06,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-06-01
+43,Female,B+,Asthma,2023-10-03,University Hospital,Medicare,13973.1,120,Urgent,2023-10-10,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2023-10-01
+70,Female,A+,Bronchitis,2024-10-29,University Hospital,Cigna,38746.11,192,Urgent,2024-10-30,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-10-01
+79,Female,O+,Cancer,2024-01-01,University Hospital,Cigna,13428.32,415,Emergency,2024-01-05,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-01-01
+60,Male,B+,Arthritis,2023-04-07,St. Jude Clinic,Cigna,9311.37,479,Emergency,2023-04-10,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-04-01
+78,Male,O+,Diabetes,2024-11-26,General Hospital,Cigna,10626.24,137,Emergency,2024-12-05,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2024-11-01
+20,Male,A+,Diabetes,2024-07-11,Memorial Health System,Blue Cross,45178.47,358,Elective,2024-07-12,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-07-01
+29,Female,O+,Hypertension,2023-12-07,General Hospital,Medicare,27935.2,386,Elective,2023-12-11,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-12-01
+76,Male,A+,Bronchitis,2023-07-03,City Medical Center,UnitedHealthcare,35674.09,262,Emergency,2023-07-06,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-07-01
+52,Female,A+,Bronchitis,2024-09-01,City Medical Center,Aetna,20758.56,354,Emergency,2024-09-06,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-09-01
+85,Female,B+,Hypertension,2023-11-14,University Hospital,Blue Cross,12802.33,267,Elective,2023-11-21,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2023-11-01
+51,Female,A+,Hypertension,2023-03-10,Memorial Health System,UnitedHealthcare,10378.57,356,Emergency,2023-03-20,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2023-03-01
+84,Male,O+,Hypertension,2024-03-01,St. Jude Clinic,UnitedHealthcare,47578.81,383,Emergency,2024-03-06,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-03-01
+19,Male,O-,Asthma,2023-09-25,St. Jude Clinic,Cigna,42888.72,103,Emergency,2023-10-06,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,11,2023-09-01
+36,Male,AB+,Diabetes,2023-09-16,City Medical Center,UnitedHealthcare,6113.27,216,Urgent,2023-09-26,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2023-09-01
+89,Female,A+,Arthritis,2024-01-13,City Medical Center,Medicare,25587,168,Urgent,2024-01-14,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-01-01
+77,Male,O+,Bronchitis,2023-01-18,Memorial Health System,Cigna,43026.34,238,Elective,2023-01-24,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-01-01
+62,Male,B+,Asthma,2023-08-30,University Hospital,UnitedHealthcare,37795.45,445,Urgent,2023-09-04,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-08-01
+34,Male,A+,Cancer,2023-06-27,General Hospital,UnitedHealthcare,6955.52,485,Emergency,2023-07-04,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2023-06-01
+33,Male,O+,Bronchitis,2024-01-27,Mercy Hospital,Cigna,18513.7,116,Emergency,2024-02-01,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-01-01
+50,Male,AB+,Cancer,2024-09-18,General Hospital,Blue Cross,36113.56,286,Emergency,2024-09-22,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-09-01
+56,Female,A+,Cancer,2024-05-02,University Hospital,Blue Cross,28409.52,411,Emergency,2024-05-06,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-05-01
+76,Male,A+,Cancer,2024-06-25,General Hospital,UnitedHealthcare,27264.18,421,Urgent,2024-06-29,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-06-01
+22,Female,O+,Bronchitis,2023-05-28,St. Jude Clinic,Aetna,41144.08,278,Urgent,2023-06-01,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-05-01
+78,Male,A+,Asthma,2024-11-04,St. Jude Clinic,UnitedHealthcare,15118.94,487,Emergency,2024-11-06,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-11-01
+79,Female,O+,Diabetes,2024-03-23,St. Jude Clinic,UnitedHealthcare,36642.84,265,Emergency,2024-03-25,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-03-01
+75,Female,O+,Bronchitis,2023-10-04,City Medical Center,Aetna,10802.09,492,Elective,2023-10-08,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-10-01
+57,Female,O+,Asthma,2023-06-29,Memorial Health System,Aetna,40115.74,422,Elective,2023-06-30,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-06-01
+43,Male,O+,Bronchitis,2023-03-24,St. Jude Clinic,Blue Cross,29776.77,113,Elective,2023-03-28,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-03-01
+23,Male,A+,Bronchitis,2024-09-28,General Hospital,Blue Cross,4041.44,472,Emergency,2024-10-12,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,14,2024-09-01
+74,Male,O+,Bronchitis,2024-05-20,Memorial Health System,Medicare,25464.49,410,Urgent,2024-05-23,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-05-01
+52,Female,O-,Diabetes,2024-08-16,Memorial Health System,Blue Cross,28449.84,484,Urgent,2024-08-24,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2024-08-01
+86,Female,O+,Arthritis,2023-02-09,General Hospital,Cigna,34971.95,327,Elective,2023-02-12,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-02-01
+44,Female,O+,Bronchitis,2023-06-06,Mercy Hospital,Aetna,21789.56,299,Elective,2023-06-08,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-06-01
+31,Male,AB+,Asthma,2024-02-22,St. Jude Clinic,Medicare,35304.84,169,Emergency,2024-02-24,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-02-01
+80,Female,O+,Bronchitis,2023-08-03,City Medical Center,Cigna,14229.08,300,Elective,2023-08-07,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-08-01
+38,Female,O+,Arthritis,2023-08-24,University Hospital,Medicare,44284.6,283,Elective,2023-08-28,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-08-01
+72,Male,O+,Cancer,2024-01-10,City Medical Center,Blue Cross,15581.35,208,Emergency,2024-01-12,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-01-01
+78,Female,O+,Cancer,2024-10-21,St. Jude Clinic,Medicare,45214.44,279,Elective,2024-11-17,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,27,2024-10-01
+48,Female,O-,Arthritis,2024-11-21,St. Jude Clinic,Medicare,45866.41,339,Urgent,2024-11-24,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-11-01
+39,Female,B+,Hypertension,2023-10-22,University Hospital,Aetna,9029.34,396,Emergency,2023-10-26,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-10-01
+54,Female,B+,Arthritis,2024-06-04,General Hospital,Cigna,32830.15,348,Urgent,2024-06-09,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-06-01
+53,Female,A+,Bronchitis,2024-12-02,Memorial Health System,Cigna,45406.89,349,Elective,2024-12-08,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-12-01
+39,Female,O+,Hypertension,2024-06-14,Mercy Hospital,Medicare,22634.24,124,Urgent,2024-06-22,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2024-06-01
+68,Female,A+,Cancer,2023-01-21,University Hospital,Medicare,23432.79,262,Urgent,2023-01-23,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-01-01
+69,Female,A+,Hypertension,2023-12-29,University Hospital,Medicare,40089.43,144,Urgent,2024-01-02,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-12-01
+51,Male,AB+,Asthma,2024-05-06,St. Jude Clinic,UnitedHealthcare,33428.96,309,Urgent,2024-05-10,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-05-01
+89,Female,O-,Diabetes,2024-01-07,Memorial Health System,Cigna,15818.12,436,Emergency,2024-01-09,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-01-01
+33,Male,O-,Diabetes,2024-11-19,City Medical Center,Cigna,30743.34,465,Elective,2024-12-03,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,14,2024-11-01
+70,Female,A+,Bronchitis,2024-09-18,University Hospital,Aetna,27762.32,365,Emergency,2024-09-23,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-09-01
+35,Male,O-,Hypertension,2023-11-17,University Hospital,UnitedHealthcare,27073.04,361,Emergency,2023-11-18,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-11-01
+73,Female,AB+,Cancer,2023-04-02,General Hospital,Aetna,44634.47,126,Urgent,2023-04-07,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-04-01
+23,Male,A+,Asthma,2023-12-03,General Hospital,Aetna,16865.96,224,Emergency,2023-12-06,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-12-01
+74,Female,O+,Cancer,2024-02-24,Mercy Hospital,Medicare,19321.69,154,Elective,2024-02-27,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-02-01
+38,Female,A+,Asthma,2024-11-27,City Medical Center,Blue Cross,18242.66,484,Emergency,2024-11-30,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-11-01
+47,Female,A+,Cancer,2024-10-28,General Hospital,UnitedHealthcare,12150.55,306,Urgent,2024-10-30,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-10-01
+77,Female,A+,Asthma,2024-10-27,Mercy Hospital,Blue Cross,45124.48,213,Emergency,2024-11-03,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2024-10-01
+85,Male,O+,Bronchitis,2023-02-26,University Hospital,Medicare,15774.42,154,Elective,2023-03-03,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-02-01
+78,Male,O+,Hypertension,2024-12-25,St. Jude Clinic,Blue Cross,47807.66,425,Urgent,2024-12-26,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-12-01
+40,Female,A+,Diabetes,2023-08-20,Memorial Health System,Aetna,9173.76,332,Emergency,2023-09-02,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,13,2023-08-01
+53,Female,O+,Cancer,2024-11-28,General Hospital,Aetna,41241.4,317,Emergency,2024-12-09,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,11,2024-11-01
+46,Male,AB+,Bronchitis,2023-01-13,General Hospital,Aetna,29787.96,173,Urgent,2023-01-16,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-01-01
+65,Male,A+,Bronchitis,2024-09-01,Mercy Hospital,Medicare,40552.27,292,Elective,2024-09-07,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-09-01
+56,Female,A+,Asthma,2024-05-17,Memorial Health System,Blue Cross,31096.38,418,Elective,2024-06-03,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,17,2024-05-01
+24,Male,A+,Asthma,2023-08-16,General Hospital,Medicare,23163.14,391,Emergency,2023-08-19,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-08-01
+32,Male,O+,Arthritis,2024-03-02,St. Jude Clinic,Cigna,39077.93,477,Emergency,2024-03-05,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-03-01
+55,Female,A+,Cancer,2023-12-14,General Hospital,Medicare,8026.21,334,Emergency,2023-12-17,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-12-01
+32,Male,O+,Hypertension,2024-01-29,University Hospital,Medicare,46371.49,304,Emergency,2024-01-31,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-01-01
+50,Female,O-,Arthritis,2023-04-20,General Hospital,Blue Cross,26923.22,271,Emergency,2023-05-02,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,12,2023-04-01
+75,Male,AB+,Arthritis,2024-06-22,Memorial Health System,Medicare,44361.14,285,Emergency,2024-06-24,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-06-01
+75,Male,O+,Asthma,2023-12-19,St. Jude Clinic,Cigna,27127.53,221,Elective,2023-12-20,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-12-01
+51,Male,O+,Asthma,2023-09-13,General Hospital,Cigna,7300.49,175,Elective,2023-09-19,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-09-01
+63,Female,B-,Arthritis,2023-03-06,General Hospital,Cigna,27905.7,159,Elective,2023-03-08,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-03-01
+60,Female,O+,Asthma,2024-08-12,City Medical Center,Cigna,46962.68,468,Emergency,2024-08-16,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-08-01
+73,Female,O+,Arthritis,2023-02-27,Mercy Hospital,Medicare,25015.17,380,Elective,2023-03-01,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-02-01
+44,Female,A+,Cancer,2024-04-24,University Hospital,UnitedHealthcare,27770.02,388,Emergency,2024-04-26,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-04-01
+58,Male,B+,Cancer,2024-06-23,University Hospital,Cigna,44343.26,315,Urgent,2024-06-25,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-06-01
+19,Female,O+,Diabetes,2024-05-25,Memorial Health System,Blue Cross,18402.28,376,Elective,2024-06-03,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2024-05-01
+55,Male,O+,Hypertension,2023-10-15,City Medical Center,Cigna,45464.6,330,Emergency,2023-10-21,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-10-01
+21,Female,AB+,Hypertension,2023-12-27,University Hospital,Blue Cross,46555.25,371,Elective,2023-12-31,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-12-01
+61,Female,A+,Cancer,2023-06-07,St. Jude Clinic,Medicare,40807.37,312,Emergency,2023-06-11,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-06-01
+23,Male,A+,Diabetes,2024-01-06,St. Jude Clinic,Cigna,32802.35,459,Emergency,2024-01-10,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-01-01
+67,Female,O+,Asthma,2024-11-07,General Hospital,UnitedHealthcare,13011.67,447,Elective,2024-11-21,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,14,2024-11-01
+82,Male,O-,Hypertension,2023-12-20,St. Jude Clinic,Medicare,46100.62,134,Emergency,2023-12-26,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-12-01
+71,Male,O+,Bronchitis,2024-05-03,Mercy Hospital,Cigna,27583.1,314,Emergency,2024-05-08,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-05-01
+21,Male,A+,Hypertension,2024-10-25,Mercy Hospital,UnitedHealthcare,24460.21,372,Emergency,2024-11-08,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,14,2024-10-01
+58,Female,O+,Asthma,2024-11-14,General Hospital,Medicare,44811.32,418,Urgent,2024-11-18,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-11-01
+60,Female,O+,Asthma,2024-06-29,Memorial Health System,Aetna,13072.53,299,Elective,2024-07-19,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,20,2024-06-01
+62,Male,A+,Bronchitis,2024-09-28,St. Jude Clinic,Aetna,36281.93,166,Elective,2024-10-05,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2024-09-01
+28,Male,A+,Asthma,2023-10-11,Memorial Health System,Blue Cross,3621.64,255,Elective,2023-10-16,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-10-01
+22,Female,B+,Hypertension,2024-06-13,Mercy Hospital,Blue Cross,13635.11,407,Urgent,2024-06-14,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-06-01
+68,Male,O+,Bronchitis,2023-05-30,St. Jude Clinic,Medicare,42089.56,329,Emergency,2023-06-03,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-05-01
+89,Female,A+,Arthritis,2024-10-27,Mercy Hospital,Aetna,19843.58,237,Emergency,2024-11-12,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,16,2024-10-01
+55,Female,O+,Arthritis,2024-07-14,University Hospital,UnitedHealthcare,11019.77,244,Emergency,2024-07-22,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2024-07-01
+87,Male,A+,Diabetes,2024-12-24,Mercy Hospital,UnitedHealthcare,9597.8,214,Elective,2024-12-26,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-12-01
+33,Female,O+,Cancer,2023-01-30,City Medical Center,Blue Cross,39274.05,495,Emergency,2023-02-01,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-01-01
+43,Female,O+,Asthma,2024-08-06,City Medical Center,Blue Cross,39400.13,188,Emergency,2024-08-19,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,13,2024-08-01
+36,Male,B+,Arthritis,2024-04-17,University Hospital,Aetna,27421.09,194,Elective,2024-04-18,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-04-01
+64,Female,B+,Bronchitis,2023-02-27,Memorial Health System,Aetna,15858.07,358,Elective,2023-03-05,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-02-01
+60,Female,AB+,Asthma,2024-11-08,General Hospital,UnitedHealthcare,33516.98,443,Emergency,2024-11-15,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2024-11-01
+77,Female,O-,Asthma,2023-04-09,City Medical Center,Aetna,40884.03,390,Emergency,2023-04-11,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-04-01
+19,Female,A+,Diabetes,2023-06-24,St. Jude Clinic,Cigna,43329.79,120,Emergency,2023-06-27,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-06-01
+29,Female,O+,Bronchitis,2024-05-30,Mercy Hospital,Cigna,44176.96,180,Urgent,2024-06-10,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,11,2024-05-01
+83,Male,A+,Asthma,2023-02-10,City Medical Center,Medicare,16774.53,194,Emergency,2023-02-11,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-02-01
+21,Female,O+,Cancer,2023-12-19,City Medical Center,Blue Cross,40141.63,310,Emergency,2023-12-21,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-12-01
+27,Male,A+,Bronchitis,2024-05-05,City Medical Center,Medicare,17160.46,114,Emergency,2024-05-07,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-05-01
+45,Female,B+,Bronchitis,2024-12-10,Memorial Health System,Blue Cross,18143.1,402,Urgent,2024-12-19,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2024-12-01
+78,Female,A-,Arthritis,2024-10-10,Memorial Health System,UnitedHealthcare,21080.51,140,Urgent,2024-10-15,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-10-01
+86,Male,AB+,Bronchitis,2023-04-02,Mercy Hospital,UnitedHealthcare,8852.86,134,Elective,2023-04-10,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2023-04-01
+30,Male,O+,Asthma,2024-02-19,Memorial Health System,UnitedHealthcare,41425.62,267,Emergency,2024-02-20,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-02-01
+46,Male,A+,Cancer,2024-10-25,General Hospital,Aetna,12353.29,407,Emergency,2024-10-31,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-10-01
+32,Female,O+,Arthritis,2024-03-29,Mercy Hospital,Medicare,16944.88,203,Emergency,2024-03-30,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-03-01
+33,Male,A+,Bronchitis,2024-10-23,Mercy Hospital,Medicare,27133.61,481,Elective,2024-11-01,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2024-10-01
+77,Female,A+,Bronchitis,2024-05-11,University Hospital,Blue Cross,22080.44,184,Emergency,2024-05-16,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-05-01
+39,Male,B+,Hypertension,2023-09-24,Mercy Hospital,Blue Cross,19103.09,139,Urgent,2023-10-06,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,12,2023-09-01
+40,Male,B+,Cancer,2024-03-18,Memorial Health System,Cigna,38312.06,144,Elective,2024-04-08,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,21,2024-03-01
+55,Female,A+,Hypertension,2023-07-29,Memorial Health System,UnitedHealthcare,42066.18,347,Urgent,2023-08-01,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-07-01
+51,Female,O+,Diabetes,2024-10-20,City Medical Center,Cigna,38078.05,430,Emergency,2024-10-21,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-10-01
+61,Female,A+,Asthma,2023-12-29,City Medical Center,Aetna,25519.9,368,Urgent,2024-01-08,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2023-12-01
+86,Male,A+,Asthma,2024-05-11,General Hospital,Blue Cross,38318.38,305,Elective,2024-05-12,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-05-01
+68,Male,A+,Asthma,2023-10-23,City Medical Center,Cigna,3206.01,276,Emergency,2023-10-27,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-10-01
+23,Female,A+,Bronchitis,2024-04-03,Memorial Health System,Cigna,26140.02,332,Emergency,2024-04-07,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-04-01
+45,Female,AB+,Arthritis,2023-08-13,Memorial Health System,UnitedHealthcare,39405.38,321,Elective,2023-08-14,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-08-01
+20,Female,O+,Hypertension,2024-11-08,University Hospital,Medicare,37860.46,480,Emergency,2024-11-14,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-11-01
+87,Female,A+,Arthritis,2024-06-29,General Hospital,Medicare,46667.7,351,Emergency,2024-07-10,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,11,2024-06-01
+54,Male,A+,Cancer,2023-08-26,Memorial Health System,UnitedHealthcare,30371.4,155,Emergency,2023-09-02,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2023-08-01
+45,Female,O+,Cancer,2023-01-01,General Hospital,Medicare,16471.02,442,Emergency,2023-01-03,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-01-01
+60,Female,O+,Arthritis,2024-07-22,City Medical Center,UnitedHealthcare,14485.94,478,Emergency,2024-07-25,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-07-01
+58,Male,O-,Hypertension,2024-12-08,St. Jude Clinic,Aetna,31757.89,357,Emergency,2024-12-19,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,11,2024-12-01
+34,Male,A+,Diabetes,2023-03-12,University Hospital,Medicare,46380.86,397,Emergency,2023-03-19,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2023-03-01
+49,Male,O+,Arthritis,2024-10-15,University Hospital,Aetna,20733.18,349,Emergency,2024-10-21,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-10-01
+89,Male,A+,Diabetes,2023-01-10,Mercy Hospital,Aetna,3920.98,409,Emergency,2023-01-18,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2023-01-01
+82,Male,A+,Bronchitis,2024-04-27,City Medical Center,Aetna,8243.63,429,Emergency,2024-05-02,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-04-01
+30,Female,O+,Arthritis,2023-03-10,Memorial Health System,Medicare,38949.69,465,Emergency,2023-03-18,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2023-03-01
+45,Male,O+,Hypertension,2023-06-15,Mercy Hospital,Cigna,16557.16,299,Elective,2023-06-28,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,13,2023-06-01
+80,Male,A+,Diabetes,2023-05-13,General Hospital,Medicare,31333.33,309,Elective,2023-05-15,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-05-01
+63,Female,A+,Hypertension,2023-03-04,St. Jude Clinic,Medicare,22444.78,308,Emergency,2023-03-06,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-03-01
+86,Male,B+,Cancer,2023-08-30,General Hospital,UnitedHealthcare,25663.42,215,Urgent,2023-09-06,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2023-08-01
+25,Female,B+,Diabetes,2024-05-03,General Hospital,Blue Cross,18369.67,155,Elective,2024-05-06,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-05-01
+40,Female,A+,Bronchitis,2023-02-04,General Hospital,Blue Cross,14806.27,137,Emergency,2023-02-07,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-02-01
+57,Female,O+,Diabetes,2023-09-16,Memorial Health System,Cigna,30582.18,270,Urgent,2023-09-20,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-09-01
+42,Male,A+,Cancer,2023-07-20,St. Jude Clinic,Blue Cross,20573.91,209,Emergency,2023-07-25,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-07-01
+28,Male,AB-,Arthritis,2024-05-25,Mercy Hospital,Medicare,6359.63,135,Emergency,2024-05-31,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-05-01
+18,Female,A-,Bronchitis,2023-04-01,University Hospital,UnitedHealthcare,46385.44,484,Emergency,2023-04-03,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-04-01
+45,Female,O+,Diabetes,2024-12-31,University Hospital,Aetna,40746.13,119,Urgent,2025-01-16,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,16,2024-12-01
+75,Male,O+,Bronchitis,2024-05-01,St. Jude Clinic,Cigna,23492.04,145,Emergency,2024-05-05,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-05-01
+79,Female,O+,Diabetes,2023-10-25,City Medical Center,Aetna,10624.44,270,Emergency,2023-10-26,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-10-01
+61,Female,A+,Hypertension,2023-01-17,Memorial Health System,Medicare,18439.05,491,Elective,2023-01-22,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-01-01
+52,Male,A+,Asthma,2024-04-26,Memorial Health System,Medicare,21706.02,295,Urgent,2024-05-18,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,22,2024-04-01
+50,Female,AB+,Arthritis,2024-06-15,University Hospital,Cigna,11139.25,334,Urgent,2024-06-17,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-06-01
+51,Male,A+,Cancer,2024-03-08,City Medical Center,Medicare,33410.19,130,Emergency,2024-03-14,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-03-01
+39,Male,A+,Bronchitis,2024-04-18,University Hospital,Medicare,16609.36,111,Urgent,2024-04-24,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-04-01
+18,Male,O+,Arthritis,2023-03-17,Mercy Hospital,Cigna,38523.56,295,Emergency,2023-03-23,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-03-01
+60,Female,O+,Asthma,2023-03-29,City Medical Center,Aetna,23721.74,263,Emergency,2023-04-02,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-03-01
+19,Male,A+,Bronchitis,2023-06-07,General Hospital,Cigna,5296.89,114,Emergency,2023-06-09,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-06-01
+80,Female,A+,Cancer,2024-12-26,General Hospital,UnitedHealthcare,6471.06,368,Urgent,2025-01-03,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2024-12-01
+23,Female,O+,Asthma,2024-04-22,General Hospital,Aetna,10568.35,439,Emergency,2024-05-10,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,18,2024-04-01
+32,Male,O+,Cancer,2024-11-21,General Hospital,UnitedHealthcare,42240.52,137,Urgent,2024-12-07,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,16,2024-11-01
+54,Female,B+,Asthma,2024-04-02,St. Jude Clinic,Cigna,21380.85,436,Elective,2024-04-04,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-04-01
+40,Female,O+,Hypertension,2023-04-22,General Hospital,UnitedHealthcare,27022.92,320,Elective,2023-05-01,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2023-04-01
+18,Female,A+,Cancer,2023-06-10,Memorial Health System,Blue Cross,6751.28,415,Emergency,2023-06-30,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,20,2023-06-01
+44,Male,O+,Hypertension,2023-04-16,Mercy Hospital,Aetna,44748.68,207,Emergency,2023-04-21,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-04-01
+82,Male,B-,Diabetes,2023-05-15,St. Jude Clinic,UnitedHealthcare,28973.48,191,Emergency,2023-05-21,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-05-01
+21,Male,AB+,Bronchitis,2024-06-20,University Hospital,Blue Cross,40675.38,416,Elective,2024-07-02,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,12,2024-06-01
+51,Female,A+,Diabetes,2024-06-19,University Hospital,UnitedHealthcare,21092.02,364,Urgent,2024-07-02,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,13,2024-06-01
+52,Male,A-,Diabetes,2023-10-19,General Hospital,Medicare,44422.6,216,Elective,2023-10-23,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-10-01
+35,Male,A+,Hypertension,2023-07-25,General Hospital,Medicare,47057.28,156,Elective,2023-07-27,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-07-01
+58,Female,A+,Diabetes,2023-05-25,University Hospital,Cigna,6631.01,145,Urgent,2023-05-29,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-05-01
+63,Female,A+,Diabetes,2024-11-28,Mercy Hospital,Blue Cross,5211.9,457,Elective,2024-12-06,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2024-11-01
+32,Female,O+,Hypertension,2023-05-25,Mercy Hospital,UnitedHealthcare,35210.05,172,Emergency,2023-06-01,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2023-05-01
+21,Male,A+,Asthma,2023-03-21,University Hospital,UnitedHealthcare,20533.16,197,Urgent,2023-03-22,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-03-01
+64,Female,O+,Diabetes,2024-11-22,St. Jude Clinic,UnitedHealthcare,18822.8,456,Elective,2024-11-30,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2024-11-01
+63,Male,O+,Asthma,2023-01-25,St. Jude Clinic,Medicare,7185.64,326,Urgent,2023-01-29,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-01-01
+28,Female,O+,Diabetes,2024-05-24,General Hospital,Medicare,24399.85,251,Emergency,2024-05-28,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-05-01
+63,Female,O+,Arthritis,2024-04-30,General Hospital,Blue Cross,11259.56,146,Emergency,2024-05-07,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2024-04-01
+67,Female,O+,Cancer,2023-07-14,General Hospital,UnitedHealthcare,14986.44,268,Emergency,2023-07-31,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,17,2023-07-01
+83,Female,B+,Bronchitis,2024-10-15,Mercy Hospital,Cigna,44898.92,276,Emergency,2024-10-20,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-10-01
+74,Male,A+,Bronchitis,2024-07-21,Mercy Hospital,Medicare,29124.65,343,Emergency,2024-07-25,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-07-01
+32,Female,A+,Cancer,2024-11-14,St. Jude Clinic,Aetna,5899.04,148,Urgent,2024-11-22,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2024-11-01
+63,Female,O+,Asthma,2024-11-25,Mercy Hospital,UnitedHealthcare,26947.11,128,Elective,2024-11-26,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-11-01
+66,Female,O+,Cancer,2024-08-01,General Hospital,Medicare,43599.35,203,Elective,2024-08-05,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-08-01
+77,Female,O+,Cancer,2023-06-13,Mercy Hospital,Medicare,3273.96,495,Elective,2023-06-14,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-06-01
+49,Male,O+,Bronchitis,2023-10-18,Memorial Health System,Cigna,18464.65,415,Emergency,2023-10-22,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-10-01
+21,Male,A+,Diabetes,2023-02-08,City Medical Center,Cigna,39037.22,147,Emergency,2023-02-16,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2023-02-01
+35,Female,A+,Cancer,2024-04-25,Mercy Hospital,UnitedHealthcare,36457.69,280,Elective,2024-05-02,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2024-04-01
+53,Female,A+,Bronchitis,2024-11-30,University Hospital,Aetna,28041.1,155,Urgent,2024-12-03,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-11-01
+40,Male,O-,Hypertension,2023-09-05,St. Jude Clinic,Blue Cross,8580.2,335,Emergency,2023-09-20,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,15,2023-09-01
+57,Female,O+,Hypertension,2024-01-23,Memorial Health System,Aetna,10032.97,249,Urgent,2024-01-31,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2024-01-01
+34,Male,A+,Cancer,2023-10-12,City Medical Center,Aetna,39501.82,224,Elective,2023-10-19,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2023-10-01
+39,Female,AB+,Cancer,2024-04-19,Mercy Hospital,Aetna,8658.66,297,Emergency,2024-04-21,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-04-01
+43,Female,A+,Arthritis,2024-01-27,Mercy Hospital,Blue Cross,41824.45,225,Elective,2024-01-31,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-01-01
+80,Female,A+,Bronchitis,2023-10-27,Mercy Hospital,UnitedHealthcare,13648.41,424,Elective,2023-10-28,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-10-01
+26,Female,O+,Bronchitis,2023-10-27,St. Jude Clinic,Aetna,5937.82,145,Emergency,2023-11-01,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-10-01
+86,Male,O+,Arthritis,2024-06-07,University Hospital,Medicare,5077.05,215,Emergency,2024-06-10,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-06-01
+55,Female,O+,Arthritis,2023-04-21,General Hospital,Medicare,40961.57,397,Emergency,2023-04-25,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-04-01
+73,Male,A+,Diabetes,2024-10-10,City Medical Center,Cigna,27742.82,283,Emergency,2024-10-13,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-10-01
+76,Male,O+,Asthma,2023-03-29,City Medical Center,Cigna,20687.96,489,Elective,2023-04-13,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,15,2023-03-01
+87,Female,O+,Hypertension,2024-12-07,University Hospital,Blue Cross,44974.06,344,Urgent,2024-12-11,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-12-01
+25,Male,A+,Hypertension,2023-05-11,Mercy Hospital,Medicare,44516.65,152,Urgent,2023-05-12,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-05-01
+61,Female,A+,Diabetes,2024-10-27,University Hospital,Medicare,28729.57,284,Emergency,2024-11-01,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-10-01
+18,Male,O+,Hypertension,2023-12-27,City Medical Center,Cigna,15658.99,351,Elective,2023-12-31,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-12-01
+40,Female,O+,Cancer,2024-01-26,University Hospital,Blue Cross,34393.54,458,Emergency,2024-02-01,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-01-01
+59,Male,A+,Arthritis,2024-02-15,General Hospital,Aetna,29384.86,492,Emergency,2024-02-21,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-02-01
+24,Male,A+,Diabetes,2024-04-15,Memorial Health System,UnitedHealthcare,5639.95,185,Elective,2024-04-17,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-04-01
+38,Female,A+,Asthma,2024-03-08,University Hospital,Blue Cross,13995.22,195,Emergency,2024-03-15,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2024-03-01
+50,Male,A+,Hypertension,2023-08-12,General Hospital,UnitedHealthcare,5315.43,149,Emergency,2023-08-16,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-08-01
+28,Male,A+,Diabetes,2023-03-20,University Hospital,Aetna,33040.8,259,Elective,2023-03-24,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-03-01
+88,Female,AB+,Cancer,2023-10-30,General Hospital,Aetna,10917.99,122,Emergency,2023-11-05,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-10-01
+21,Female,O-,Asthma,2024-02-08,University Hospital,Aetna,41880.13,492,Urgent,2024-02-13,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-02-01
+50,Female,O+,Diabetes,2024-08-25,General Hospital,Cigna,37287.79,142,Elective,2024-08-28,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-08-01
+44,Male,B+,Bronchitis,2024-07-10,University Hospital,Medicare,37240.82,411,Emergency,2024-07-13,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-07-01
+84,Female,A+,Asthma,2023-05-27,Mercy Hospital,Aetna,11063.68,237,Emergency,2023-05-30,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-05-01
+19,Male,A+,Asthma,2024-07-31,University Hospital,Cigna,9083.02,138,Elective,2024-08-05,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-07-01
+40,Male,A+,Bronchitis,2024-11-07,General Hospital,UnitedHealthcare,34886.09,143,Emergency,2024-11-12,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-11-01
+56,Male,O+,Arthritis,2023-04-15,City Medical Center,Medicare,42957.89,430,Emergency,2023-04-21,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-04-01
+81,Female,A+,Hypertension,2024-11-20,General Hospital,Medicare,21310.94,453,Elective,2024-12-02,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,12,2024-11-01
+46,Female,A+,Hypertension,2023-02-02,St. Jude Clinic,Cigna,16918.74,123,Emergency,2023-02-17,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,15,2023-02-01
+41,Female,A+,Hypertension,2023-11-20,University Hospital,UnitedHealthcare,32046.39,144,Emergency,2023-11-24,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-11-01
+54,Female,A+,Arthritis,2023-03-23,University Hospital,Cigna,29678.17,276,Urgent,2023-04-01,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2023-03-01
+71,Male,AB+,Diabetes,2024-07-27,University Hospital,Blue Cross,9296.54,301,Emergency,2024-08-07,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,11,2024-07-01
+69,Female,O+,Asthma,2024-09-04,University Hospital,Cigna,43692.67,195,Urgent,2024-09-07,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-09-01
+43,Male,O+,Cancer,2023-04-09,Memorial Health System,Cigna,10294.71,161,Emergency,2023-04-13,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-04-01
+65,Female,O-,Arthritis,2023-02-25,Memorial Health System,UnitedHealthcare,31135.09,217,Elective,2023-03-01,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-02-01
+49,Female,B+,Asthma,2023-06-02,General Hospital,Blue Cross,23362.7,392,Emergency,2023-06-12,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2023-06-01
+24,Female,B+,Diabetes,2024-11-09,University Hospital,Aetna,17541.88,404,Emergency,2024-11-12,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-11-01
+63,Female,O+,Arthritis,2023-01-14,Mercy Hospital,UnitedHealthcare,21488.83,391,Emergency,2023-01-20,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-01-01
+44,Male,O+,Asthma,2023-03-02,General Hospital,Aetna,32957.1,324,Emergency,2023-03-05,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-03-01
+35,Male,O+,Asthma,2023-03-15,St. Jude Clinic,Medicare,4175.73,394,Emergency,2023-04-03,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,19,2023-03-01
+24,Male,AB-,Cancer,2024-05-26,Memorial Health System,UnitedHealthcare,17693.72,272,Emergency,2024-05-27,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-05-01
+88,Female,O+,Hypertension,2024-08-08,University Hospital,Blue Cross,34549.99,273,Elective,2024-08-10,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-08-01
+37,Female,O+,Diabetes,2024-11-11,General Hospital,Cigna,20479.36,328,Emergency,2024-11-28,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,17,2024-11-01
+53,Male,O+,Bronchitis,2024-11-09,City Medical Center,Blue Cross,3665.08,243,Emergency,2024-11-18,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2024-11-01
+86,Male,B+,Bronchitis,2023-03-11,City Medical Center,Cigna,46509.88,288,Elective,2023-03-12,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-03-01
+42,Female,O+,Arthritis,2024-02-16,St. Jude Clinic,UnitedHealthcare,17923.82,486,Urgent,2024-02-20,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-02-01
+87,Female,O+,Cancer,2024-11-01,Mercy Hospital,Medicare,42395.83,400,Emergency,2024-11-09,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2024-11-01
+69,Male,A+,Hypertension,2023-03-31,Mercy Hospital,Cigna,26250.2,155,Emergency,2023-04-06,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-03-01
+66,Male,A+,Asthma,2023-07-09,Memorial Health System,Cigna,28795.52,234,Elective,2023-07-15,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-07-01
+75,Female,B+,Hypertension,2023-10-20,General Hospital,Blue Cross,13480.96,232,Emergency,2023-10-22,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-10-01
+19,Male,O+,Arthritis,2023-11-10,St. Jude Clinic,Aetna,6683.31,142,Emergency,2023-11-17,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2023-11-01
+26,Female,A+,Diabetes,2023-12-05,University Hospital,UnitedHealthcare,6148.34,214,Emergency,2023-12-11,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-12-01
+89,Male,A+,Arthritis,2024-08-18,General Hospital,Medicare,46177.7,483,Elective,2024-09-03,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,16,2024-08-01
+59,Female,B+,Cancer,2023-01-11,General Hospital,Cigna,18198.02,128,Emergency,2023-01-14,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-01-01
+28,Male,O+,Asthma,2023-11-23,Mercy Hospital,UnitedHealthcare,39527.84,122,Urgent,2023-12-01,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2023-11-01
+23,Female,AB+,Arthritis,2024-03-15,Memorial Health System,Cigna,23249.7,289,Emergency,2024-03-20,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-03-01
+50,Female,A+,Arthritis,2023-12-28,Mercy Hospital,Aetna,6711.13,169,Elective,2024-01-01,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-12-01
+65,Female,A+,Bronchitis,2023-06-21,Memorial Health System,Blue Cross,10586.38,194,Elective,2023-06-25,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-06-01
+41,Female,A+,Asthma,2024-01-09,St. Jude Clinic,UnitedHealthcare,39825.7,163,Elective,2024-01-11,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-01-01
+85,Female,A+,Cancer,2023-05-12,General Hospital,Aetna,6474.52,397,Emergency,2023-05-21,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2023-05-01
+22,Male,B+,Diabetes,2023-06-08,Mercy Hospital,Cigna,37545.69,261,Emergency,2023-06-13,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-06-01
+81,Male,A+,Cancer,2023-06-29,City Medical Center,Aetna,7783.5,187,Elective,2023-07-07,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2023-06-01
+75,Female,A+,Arthritis,2024-06-30,Memorial Health System,Blue Cross,36516.47,245,Emergency,2024-07-02,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-06-01
+34,Female,A+,Hypertension,2023-07-08,St. Jude Clinic,Medicare,16085.41,185,Emergency,2023-07-24,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,16,2023-07-01
+27,Female,A+,Arthritis,2023-03-06,Mercy Hospital,Medicare,35145.21,477,Emergency,2023-03-08,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-03-01
+26,Male,A+,Diabetes,2024-03-07,City Medical Center,UnitedHealthcare,17306.1,120,Urgent,2024-03-09,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-03-01
+18,Female,A+,Asthma,2023-09-18,City Medical Center,UnitedHealthcare,35461.32,192,Elective,2023-09-23,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-09-01
+18,Male,O+,Diabetes,2024-05-13,City Medical Center,Cigna,44456.51,131,Emergency,2024-05-16,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-05-01
+44,Male,AB+,Hypertension,2024-06-12,City Medical Center,Cigna,33860.38,327,Urgent,2024-06-17,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-06-01
+73,Female,O+,Asthma,2023-02-12,University Hospital,Blue Cross,7017.11,196,Emergency,2023-02-14,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-02-01
+64,Male,B+,Hypertension,2024-03-24,St. Jude Clinic,UnitedHealthcare,40565.38,175,Emergency,2024-04-03,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2024-03-01
+42,Female,O+,Cancer,2024-06-28,Memorial Health System,Cigna,32004.64,210,Emergency,2024-07-04,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-06-01
+86,Female,A+,Diabetes,2024-08-16,St. Jude Clinic,Aetna,15010.2,199,Emergency,2024-08-20,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-08-01
+43,Male,O+,Cancer,2023-03-08,City Medical Center,Cigna,17886.64,300,Elective,2023-03-20,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,12,2023-03-01
+65,Male,AB+,Asthma,2024-05-24,St. Jude Clinic,Cigna,28977.14,434,Emergency,2024-05-28,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-05-01
+38,Male,O+,Diabetes,2023-03-10,City Medical Center,Cigna,26933.19,139,Elective,2023-03-14,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-03-01
+19,Female,A+,Hypertension,2024-12-20,St. Jude Clinic,Aetna,28127.62,453,Emergency,2025-01-05,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,16,2024-12-01
+71,Female,A+,Hypertension,2023-09-26,General Hospital,Medicare,14033.25,197,Emergency,2023-09-30,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-09-01
+19,Male,A+,Asthma,2023-10-16,City Medical Center,Blue Cross,27185.44,306,Elective,2023-10-21,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-10-01
+56,Female,A+,Diabetes,2024-01-11,St. Jude Clinic,UnitedHealthcare,38397.81,314,Elective,2024-01-20,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2024-01-01
+28,Female,O+,Cancer,2023-08-31,University Hospital,Cigna,10882.18,407,Elective,2023-09-05,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-08-01
+86,Male,A+,Cancer,2024-11-20,Mercy Hospital,Medicare,4514.57,261,Emergency,2024-11-21,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-11-01
+68,Male,A+,Cancer,2024-10-11,Mercy Hospital,Cigna,30013.59,219,Elective,2024-10-26,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,15,2024-10-01
+38,Female,A+,Diabetes,2024-08-12,University Hospital,Blue Cross,28032.71,333,Elective,2024-08-13,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-08-01
+66,Female,A+,Arthritis,2024-09-09,Mercy Hospital,Cigna,21510.71,403,Emergency,2024-09-10,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-09-01
+69,Male,O+,Hypertension,2023-09-04,University Hospital,UnitedHealthcare,25723.27,267,Urgent,2023-09-06,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-09-01
+85,Male,O+,Bronchitis,2023-04-08,Memorial Health System,Blue Cross,35965.53,426,Emergency,2023-04-14,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-04-01
+29,Female,O-,Bronchitis,2023-07-27,Mercy Hospital,Blue Cross,41379.05,430,Elective,2023-08-01,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-07-01
+64,Female,O+,Cancer,2024-09-27,University Hospital,Aetna,27516.05,375,Emergency,2024-10-02,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-09-01
+27,Male,B+,Asthma,2024-08-15,University Hospital,UnitedHealthcare,21209.46,157,Emergency,2024-08-22,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2024-08-01
+27,Male,O+,Hypertension,2024-05-28,University Hospital,Medicare,13206.11,385,Emergency,2024-06-03,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-05-01
+57,Female,A+,Bronchitis,2024-12-19,City Medical Center,Cigna,33906.97,123,Emergency,2024-12-21,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-12-01
+18,Male,O+,Cancer,2023-04-01,General Hospital,Cigna,35608.67,440,Urgent,2023-04-09,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2023-04-01
+27,Female,A+,Diabetes,2023-10-23,St. Jude Clinic,Aetna,32315.56,497,Emergency,2023-10-25,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-10-01
+66,Male,O-,Bronchitis,2024-11-04,Memorial Health System,Cigna,33742.19,499,Emergency,2024-11-06,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-11-01
+19,Female,B+,Hypertension,2024-11-19,Memorial Health System,UnitedHealthcare,14277.41,428,Urgent,2024-11-21,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-11-01
+29,Female,A+,Asthma,2023-11-19,City Medical Center,Blue Cross,16427.31,176,Emergency,2023-11-23,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-11-01
+36,Male,B+,Diabetes,2024-03-02,Memorial Health System,Aetna,23731.33,147,Emergency,2024-03-05,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-03-01
+61,Female,O+,Arthritis,2023-11-10,General Hospital,Cigna,19014.18,460,Emergency,2023-11-11,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-11-01
+33,Female,O+,Cancer,2023-01-22,Memorial Health System,Medicare,22831.72,341,Emergency,2023-01-25,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-01-01
+43,Female,O+,Asthma,2023-03-19,University Hospital,Aetna,47240.24,102,Emergency,2023-04-05,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,17,2023-03-01
+79,Male,A-,Diabetes,2023-08-18,Memorial Health System,UnitedHealthcare,42019.42,461,Urgent,2023-08-19,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-08-01
+81,Male,O+,Asthma,2023-09-29,Memorial Health System,Aetna,27562.45,196,Elective,2023-10-03,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-09-01
+25,Female,A+,Cancer,2023-03-15,St. Jude Clinic,Aetna,29551.25,250,Emergency,2023-03-25,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2023-03-01
+32,Male,O+,Diabetes,2023-01-27,St. Jude Clinic,Medicare,16671.54,323,Urgent,2023-02-24,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,28,2023-01-01
+35,Male,O+,Arthritis,2023-09-03,Memorial Health System,Cigna,30451.66,352,Emergency,2023-09-13,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2023-09-01
+44,Female,A+,Cancer,2023-09-22,Memorial Health System,UnitedHealthcare,15280.2,386,Elective,2023-09-25,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-09-01
+19,Male,O+,Asthma,2024-09-02,City Medical Center,UnitedHealthcare,47565.51,266,Elective,2024-09-09,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2024-09-01
+71,Female,O+,Bronchitis,2024-11-08,Memorial Health System,Cigna,35568.25,149,Urgent,2024-11-12,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-11-01
+19,Female,A+,Arthritis,2024-04-26,City Medical Center,Cigna,32593.88,358,Emergency,2024-05-01,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-04-01
+84,Female,A+,Cancer,2024-11-18,General Hospital,Cigna,32012.28,104,Emergency,2024-11-22,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-11-01
+30,Female,B-,Bronchitis,2024-10-31,General Hospital,Medicare,31688.42,196,Emergency,2024-11-07,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2024-10-01
+64,Female,AB+,Diabetes,2024-12-29,University Hospital,Cigna,35400.16,308,Elective,2025-01-02,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-12-01
+87,Female,O-,Diabetes,2023-04-04,General Hospital,Aetna,34464.98,113,Elective,2023-04-12,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2023-04-01
+43,Male,O+,Asthma,2023-07-20,Memorial Health System,Aetna,19563.9,214,Emergency,2023-07-21,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-07-01
+19,Female,O+,Cancer,2023-10-20,Memorial Health System,Medicare,45233.32,103,Elective,2023-10-26,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-10-01
+47,Male,A+,Cancer,2024-12-21,Mercy Hospital,UnitedHealthcare,15232.19,406,Urgent,2024-12-24,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-12-01
+48,Female,O+,Diabetes,2023-08-24,University Hospital,Aetna,40349.02,265,Elective,2023-08-26,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-08-01
+35,Male,O+,Diabetes,2023-12-22,University Hospital,Blue Cross,5127.39,361,Elective,2023-12-29,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2023-12-01
+54,Male,O+,Arthritis,2024-04-30,City Medical Center,Cigna,31277.96,358,Elective,2024-05-03,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-04-01
+52,Male,O-,Bronchitis,2024-09-01,Memorial Health System,Blue Cross,36298.03,250,Emergency,2024-09-04,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-09-01
+75,Female,B+,Asthma,2023-03-08,City Medical Center,Medicare,14813,461,Emergency,2023-03-09,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-03-01
+77,Female,A+,Bronchitis,2024-05-12,City Medical Center,Medicare,46946.85,453,Emergency,2024-05-20,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2024-05-01
+74,Male,O+,Bronchitis,2023-12-10,General Hospital,Cigna,31596.05,428,Elective,2023-12-14,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-12-01
+71,Female,A+,Cancer,2023-07-22,City Medical Center,Cigna,4153.59,491,Urgent,2023-08-03,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,12,2023-07-01
+82,Male,A+,Arthritis,2023-01-08,St. Jude Clinic,Blue Cross,27810.1,302,Emergency,2023-01-09,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-01-01
+18,Female,A+,Asthma,2023-06-16,City Medical Center,Cigna,36093.72,197,Urgent,2023-06-30,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,14,2023-06-01
+45,Female,A+,Cancer,2023-02-22,Memorial Health System,Medicare,4008.66,119,Elective,2023-02-26,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-02-01
+47,Male,A+,Bronchitis,2023-05-31,City Medical Center,Cigna,6332.22,237,Urgent,2023-06-12,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,12,2023-05-01
+25,Male,O+,Hypertension,2024-02-21,City Medical Center,Medicare,5305.28,205,Elective,2024-03-12,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,20,2024-02-01
+74,Female,A+,Diabetes,2024-03-19,Mercy Hospital,Aetna,18546.1,486,Emergency,2024-03-29,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2024-03-01
+44,Male,A+,Cancer,2023-04-30,University Hospital,Medicare,4155.11,316,Emergency,2023-05-04,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-04-01
+63,Male,O+,Hypertension,2024-06-14,St. Jude Clinic,Blue Cross,22805.25,160,Elective,2024-06-27,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,13,2024-06-01
+74,Male,O+,Arthritis,2023-08-20,General Hospital,Aetna,44423.45,478,Elective,2023-08-21,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-08-01
+83,Male,A-,Asthma,2023-09-01,General Hospital,Aetna,29925.01,369,Urgent,2023-09-04,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-09-01
+35,Female,O+,Arthritis,2024-03-09,City Medical Center,Blue Cross,35797.98,333,Emergency,2024-03-15,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-03-01
+74,Male,AB+,Cancer,2024-04-02,City Medical Center,Blue Cross,18453.54,354,Elective,2024-04-05,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-04-01
+21,Male,B+,Cancer,2023-03-18,Memorial Health System,UnitedHealthcare,2926.57,235,Urgent,2023-03-19,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-03-01
+88,Female,A+,Arthritis,2023-04-18,Mercy Hospital,Aetna,36674.81,302,Emergency,2023-04-27,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2023-04-01
+55,Male,O+,Cancer,2023-11-05,Memorial Health System,UnitedHealthcare,33429.14,247,Urgent,2023-11-07,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-11-01
+55,Male,A+,Cancer,2023-04-12,University Hospital,Medicare,17755.31,327,Emergency,2023-04-15,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-04-01
+24,Female,AB+,Hypertension,2023-04-28,Memorial Health System,UnitedHealthcare,26407.88,331,Emergency,2023-05-03,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-04-01
+28,Female,O+,Diabetes,2023-10-22,City Medical Center,Aetna,28810.71,188,Emergency,2023-10-24,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-10-01
+67,Male,O+,Cancer,2024-11-30,Mercy Hospital,Medicare,20648.81,405,Elective,2024-12-05,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-11-01
+42,Female,A+,Cancer,2023-06-16,City Medical Center,Cigna,40568.62,325,Urgent,2023-06-18,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-06-01
+89,Male,A+,Bronchitis,2024-11-07,City Medical Center,Aetna,12886.76,210,Elective,2024-11-10,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-11-01
+40,Male,O+,Hypertension,2023-07-12,University Hospital,Blue Cross,40493.9,239,Elective,2023-07-17,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-07-01
+72,Male,A+,Arthritis,2023-06-28,Mercy Hospital,Medicare,7150.83,155,Elective,2023-07-13,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,15,2023-06-01
+38,Male,A+,Asthma,2023-07-03,University Hospital,Medicare,28793.47,116,Emergency,2023-07-13,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2023-07-01
+62,Female,A+,Bronchitis,2023-04-17,University Hospital,Aetna,39165.22,206,Urgent,2023-04-18,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-04-01
+78,Female,O+,Asthma,2024-04-26,General Hospital,Cigna,38220.15,319,Elective,2024-05-02,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-04-01
+44,Male,O+,Diabetes,2024-09-09,Memorial Health System,UnitedHealthcare,15330.63,204,Elective,2024-09-26,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,17,2024-09-01
+56,Female,O+,Cancer,2023-06-15,Memorial Health System,Aetna,42254.77,243,Emergency,2023-06-19,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-06-01
+27,Female,A+,Asthma,2024-07-18,Mercy Hospital,Medicare,22856.08,248,Elective,2024-07-24,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-07-01
+45,Female,A+,Asthma,2023-10-19,Mercy Hospital,Medicare,18060.78,301,Elective,2023-10-25,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-10-01
+47,Female,B-,Cancer,2023-03-02,Mercy Hospital,Blue Cross,35320.99,260,Emergency,2023-03-04,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-03-01
+57,Male,A+,Arthritis,2024-05-15,City Medical Center,Aetna,9174.76,271,Emergency,2024-05-24,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2024-05-01
+57,Female,A+,Cancer,2023-09-19,City Medical Center,Cigna,34517.22,126,Emergency,2023-09-24,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-09-01
+54,Female,A-,Cancer,2024-12-21,Memorial Health System,UnitedHealthcare,10781.02,470,Urgent,2024-12-26,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-12-01
+20,Male,O+,Arthritis,2024-01-20,City Medical Center,Medicare,18288.88,357,Elective,2024-01-25,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-01-01
+43,Female,O+,Diabetes,2024-07-24,University Hospital,Medicare,22909.11,163,Emergency,2024-07-28,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-07-01
+82,Male,A+,Asthma,2023-04-17,Mercy Hospital,Cigna,15894.67,223,Emergency,2023-04-20,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-04-01
+44,Female,A+,Arthritis,2024-07-21,University Hospital,UnitedHealthcare,44019.16,447,Emergency,2024-07-26,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-07-01
+87,Male,A+,Bronchitis,2024-07-22,University Hospital,Cigna,29907.21,197,Urgent,2024-07-27,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-07-01
+80,Female,A+,Bronchitis,2024-05-22,Mercy Hospital,Blue Cross,21572.62,415,Elective,2024-05-27,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-05-01
+50,Male,O-,Bronchitis,2023-12-05,Memorial Health System,Cigna,7930.1,274,Elective,2023-12-06,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-12-01
+46,Male,O+,Cancer,2023-05-06,St. Jude Clinic,Aetna,13083.38,407,Emergency,2023-05-08,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-05-01
+42,Male,O+,Hypertension,2024-11-26,General Hospital,UnitedHealthcare,30721.39,208,Elective,2024-12-01,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-11-01
+69,Female,A+,Asthma,2023-01-03,Memorial Health System,Medicare,33747.55,178,Elective,2023-01-19,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,16,2023-01-01
+58,Male,A+,Cancer,2024-02-07,General Hospital,Cigna,28383.29,146,Elective,2024-02-08,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-02-01
+42,Female,B+,Cancer,2024-05-15,City Medical Center,Medicare,18615.76,133,Emergency,2024-05-21,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-05-01
+47,Female,O-,Bronchitis,2024-09-24,St. Jude Clinic,Blue Cross,29751.31,274,Elective,2024-10-07,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,13,2024-09-01
+39,Female,AB+,Arthritis,2023-11-02,City Medical Center,Cigna,46587.12,437,Emergency,2023-11-05,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-11-01
+56,Male,A+,Asthma,2023-03-25,St. Jude Clinic,Blue Cross,20269.36,345,Elective,2023-03-29,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-03-01
+56,Female,AB+,Cancer,2023-08-11,General Hospital,Medicare,41303.06,158,Emergency,2023-08-27,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,16,2023-08-01
+64,Male,O-,Diabetes,2023-01-14,General Hospital,UnitedHealthcare,4424.08,205,Urgent,2023-01-25,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,11,2023-01-01
+24,Male,A+,Cancer,2024-09-01,Memorial Health System,Medicare,21824.87,284,Elective,2024-09-07,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-09-01
+54,Female,O+,Cancer,2023-12-19,Memorial Health System,UnitedHealthcare,3518.77,226,Emergency,2023-12-21,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-12-01
+77,Male,B+,Asthma,2024-02-10,Mercy Hospital,UnitedHealthcare,3959.25,483,Urgent,2024-03-05,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,24,2024-02-01
+89,Male,O+,Diabetes,2024-03-05,Mercy Hospital,Cigna,6968.64,353,Emergency,2024-03-18,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,13,2024-03-01
+70,Male,O+,Bronchitis,2023-09-20,University Hospital,Blue Cross,45397.29,225,Elective,2023-09-26,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-09-01
+19,Female,O+,Arthritis,2023-06-24,Mercy Hospital,Blue Cross,31745.45,298,Elective,2023-06-26,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-06-01
+27,Female,O+,Cancer,2023-02-07,General Hospital,Medicare,9183.57,236,Elective,2023-02-21,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,14,2023-02-01
+57,Female,A+,Cancer,2024-09-11,University Hospital,Cigna,22497.86,398,Elective,2024-09-22,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,11,2024-09-01
+73,Male,A+,Bronchitis,2023-09-01,University Hospital,Blue Cross,20937.73,391,Emergency,2023-09-11,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2023-09-01
+27,Male,O+,Diabetes,2024-11-13,General Hospital,Medicare,13030.78,186,Emergency,2024-11-16,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-11-01
+19,Male,A+,Asthma,2024-07-14,University Hospital,Cigna,33778.59,400,Emergency,2024-07-18,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-07-01
+29,Female,O+,Bronchitis,2023-10-08,Mercy Hospital,Medicare,12378.75,421,Urgent,2023-10-12,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-10-01
+52,Female,AB+,Arthritis,2023-03-15,City Medical Center,Blue Cross,40312.31,380,Emergency,2023-03-23,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2023-03-01
+25,Male,O+,Arthritis,2024-02-18,Mercy Hospital,Blue Cross,34776.68,497,Emergency,2024-02-22,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-02-01
+73,Male,A+,Cancer,2024-10-20,St. Jude Clinic,UnitedHealthcare,26305.7,396,Elective,2024-11-11,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,22,2024-10-01
+57,Male,B+,Asthma,2023-06-19,St. Jude Clinic,Blue Cross,4939.13,104,Emergency,2023-06-21,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-06-01
+88,Male,O+,Bronchitis,2023-11-13,University Hospital,Aetna,30917.29,278,Urgent,2023-11-19,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-11-01
+70,Male,O+,Cancer,2023-07-20,University Hospital,Cigna,37663.45,499,Elective,2023-07-30,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2023-07-01
+39,Male,A+,Cancer,2024-02-10,City Medical Center,Cigna,19908.17,137,Elective,2024-02-14,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-02-01
+23,Female,A+,Hypertension,2023-04-01,General Hospital,Medicare,33139.29,400,Elective,2023-04-13,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,12,2023-04-01
+24,Male,O+,Asthma,2024-08-06,Memorial Health System,Medicare,3813.93,234,Emergency,2024-08-09,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-08-01
+84,Male,A+,Arthritis,2024-04-11,Memorial Health System,Medicare,11242.06,123,Urgent,2024-04-20,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2024-04-01
+24,Female,O+,Diabetes,2023-11-23,Memorial Health System,Cigna,35864.39,134,Urgent,2023-11-26,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-11-01
+25,Male,B+,Hypertension,2024-01-10,St. Jude Clinic,Aetna,23478.51,354,Urgent,2024-01-14,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-01-01
+29,Male,O+,Cancer,2023-01-16,University Hospital,Medicare,22907.9,461,Emergency,2023-01-20,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-01-01
+22,Female,A+,Asthma,2023-03-13,Memorial Health System,Aetna,39541.47,230,Emergency,2023-03-22,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2023-03-01
+88,Female,O+,Cancer,2024-10-24,Mercy Hospital,UnitedHealthcare,43890.88,456,Emergency,2024-10-28,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-10-01
+36,Female,O+,Arthritis,2023-08-01,Memorial Health System,Cigna,43979.56,283,Elective,2023-08-05,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-08-01
+23,Female,O+,Diabetes,2023-03-01,Mercy Hospital,Medicare,44192.33,175,Elective,2023-03-05,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-03-01
+70,Male,O+,Asthma,2024-12-20,Memorial Health System,Aetna,44894.74,379,Elective,2025-01-01,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,12,2024-12-01
+74,Female,O-,Bronchitis,2023-04-05,Memorial Health System,Aetna,27049.46,478,Elective,2023-04-16,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,11,2023-04-01
+70,Male,O+,Diabetes,2024-01-17,Memorial Health System,UnitedHealthcare,31834.14,326,Emergency,2024-01-19,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-01-01
+52,Female,A+,Cancer,2023-12-15,General Hospital,Cigna,5261.75,289,Emergency,2023-12-16,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-12-01
+69,Female,O+,Cancer,2023-06-20,University Hospital,Aetna,21386.55,408,Urgent,2023-06-22,Lipitor,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-06-01
+26,Male,O+,Bronchitis,2023-07-04,General Hospital,Blue Cross,26029.19,408,Elective,2023-07-14,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2023-07-01
+69,Male,O+,Cancer,2024-10-28,St. Jude Clinic,UnitedHealthcare,33240.86,216,Emergency,2024-11-01,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-10-01
+30,Male,O+,Arthritis,2024-08-08,General Hospital,Cigna,18990.28,129,Emergency,2024-08-12,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2024-08-01
+73,Female,O-,Cancer,2023-05-26,General Hospital,Blue Cross,20616.31,403,Emergency,2023-05-31,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-05-01
+20,Male,O+,Diabetes,2023-01-16,Mercy Hospital,Aetna,13644.13,101,Urgent,2023-01-26,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,10,2023-01-01
+33,Male,A+,Cancer,2024-12-12,Memorial Health System,Medicare,9686.67,109,Urgent,2024-12-14,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-12-01
+63,Female,A+,Asthma,2024-08-19,St. Jude Clinic,Medicare,26648.74,420,Emergency,2024-08-21,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-08-01
+47,Male,A+,Diabetes,2023-04-11,Memorial Health System,Cigna,38932.1,229,Emergency,2023-04-12,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-04-01
+48,Male,B+,Hypertension,2023-05-31,Mercy Hospital,UnitedHealthcare,22645.33,282,Elective,2023-06-03,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-05-01
+84,Female,A+,Asthma,2023-09-07,St. Jude Clinic,UnitedHealthcare,36914.63,370,Emergency,2023-09-20,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,13,2023-09-01
+72,Female,O+,Hypertension,2024-03-09,Mercy Hospital,Cigna,31533.56,404,Emergency,2024-03-29,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,20,2024-03-01
+20,Male,O+,Bronchitis,2024-05-28,Memorial Health System,Blue Cross,43283.75,303,Emergency,2024-06-03,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2024-05-01
+44,Male,O-,Asthma,2024-10-01,Mercy Hospital,Blue Cross,19928.17,135,Emergency,2024-10-04,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-10-01
+67,Female,A+,Cancer,2024-04-25,Mercy Hospital,Cigna,45825.05,415,Emergency,2024-04-28,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-04-01
+75,Female,A+,Diabetes,2023-12-14,General Hospital,Blue Cross,34835.22,353,Emergency,2023-12-17,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-12-01
+74,Male,A+,Bronchitis,2023-07-01,St. Jude Clinic,UnitedHealthcare,44790.9,287,Emergency,2023-07-05,Penicillin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-07-01
+73,Female,A+,Diabetes,2024-09-28,Mercy Hospital,UnitedHealthcare,19550.1,480,Emergency,2024-10-16,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,18,2024-09-01
+61,Male,A+,Hypertension,2023-03-14,University Hospital,Blue Cross,38219.15,103,Elective,2023-03-22,Aspirin,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,8,2023-03-01
+31,Male,O-,Arthritis,2023-04-19,General Hospital,Blue Cross,12469.48,366,Emergency,2023-04-20,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2023-04-01
+69,Female,A+,Asthma,2024-01-25,University Hospital,Cigna,24588.43,170,Emergency,2024-01-28,Ibuprofen,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-01-01
+24,Female,O+,Diabetes,2024-12-23,City Medical Center,Aetna,33495.89,127,Emergency,2025-01-01,Paracetamol,Inconclusive,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2024-12-01
+33,Male,O-,Cancer,2024-11-03,City Medical Center,Aetna,23595.34,322,Urgent,2024-11-10,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,7,2024-11-01
+50,Male,A+,Diabetes,2024-10-12,General Hospital,Medicare,45231.02,348,Emergency,2024-11-01,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,20,2024-10-01
+59,Male,O+,Arthritis,2024-04-20,General Hospital,Medicare,17963.34,316,Elective,2024-05-13,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,23,2024-04-01
+88,Female,A+,Diabetes,2023-11-16,Mercy Hospital,UnitedHealthcare,2517.41,422,Emergency,2023-11-20,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-11-01
+28,Male,B+,Diabetes,2024-07-26,University Hospital,Cigna,12390.94,372,Elective,2024-07-29,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-07-01
+56,Male,O+,Bronchitis,2023-04-01,St. Jude Clinic,UnitedHealthcare,4141,126,Urgent,2023-04-23,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,22,2023-04-01
+58,Male,O-,Diabetes,2023-07-07,Mercy Hospital,UnitedHealthcare,18344.65,265,Emergency,2023-07-13,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,6,2023-07-01
+50,Male,A+,Diabetes,2023-07-27,City Medical Center,Aetna,6956.89,249,Emergency,2023-07-29,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-07-01
+58,Male,A+,Cancer,2024-04-06,St. Jude Clinic,Medicare,35730.41,103,Elective,2024-04-07,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-04-01
+45,Female,A+,Cancer,2023-02-20,Memorial Health System,Cigna,35978.99,120,Elective,2023-02-25,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2023-02-01
+42,Female,A+,Diabetes,2024-03-12,Memorial Health System,Cigna,32064.15,133,Elective,2024-03-14,Paracetamol,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-03-01
+84,Male,O-,Arthritis,2023-03-28,City Medical Center,UnitedHealthcare,42797.62,165,Emergency,2023-04-15,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,18,2023-03-01
+78,Female,A+,Cancer,2023-06-17,City Medical Center,Aetna,7685.86,193,Emergency,2023-06-21,Paracetamol,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-06-01
+25,Female,O-,Arthritis,2023-07-30,St. Jude Clinic,Aetna,14782.43,180,Emergency,2023-08-02,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2023-07-01
+75,Female,O+,Cancer,2024-03-07,Mercy Hospital,Blue Cross,42745.32,302,Elective,2024-03-10,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-03-01
+48,Female,O+,Hypertension,2023-10-30,City Medical Center,Aetna,46703.73,143,Emergency,2023-11-16,Penicillin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,17,2023-10-01
+39,Male,A+,Bronchitis,2024-03-30,Memorial Health System,Blue Cross,43526.11,335,Emergency,2024-03-31,Ibuprofen,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,1,2024-03-01
+83,Female,B+,Diabetes,2023-10-16,St. Jude Clinic,Aetna,34178.63,174,Elective,2023-10-18,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-10-01
+33,Male,A+,Hypertension,2024-02-12,Memorial Health System,Aetna,44859.24,429,Emergency,2024-02-15,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,3,2024-02-01
+56,Female,AB+,Asthma,2023-07-26,St. Jude Clinic,Blue Cross,36540.19,404,Emergency,2023-08-04,Aspirin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,9,2023-07-01
+66,Female,A+,Asthma,2024-08-06,Memorial Health System,Blue Cross,7530.14,438,Elective,2024-08-11,Penicillin,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,5,2024-08-01
+23,Male,O+,Arthritis,2023-01-06,Mercy Hospital,Blue Cross,26995.88,480,Elective,2023-01-10,Lipitor,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,4,2023-01-01
+20,Female,A+,Asthma,2024-07-08,City Medical Center,Medicare,17958.14,462,Urgent,2024-07-10,Lipitor,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2024-07-01
+18,Male,A-,Arthritis,2023-12-20,St. Jude Clinic,UnitedHealthcare,35492.47,449,Emergency,2023-12-22,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,2,2023-12-01
+26,Male,A+,Arthritis,2024-11-22,University Hospital,Aetna,18018.08,248,Elective,2024-12-16,Aspirin,Normal,SYNTHETIC_DATA_FOR_TESTING_ONLY,24,2024-11-01
+75,Female,O+,Cancer,2023-04-11,Memorial Health System,Cigna,36656.91,226,Urgent,2023-05-01,Ibuprofen,Abnormal,SYNTHETIC_DATA_FOR_TESTING_ONLY,20,2023-04-01

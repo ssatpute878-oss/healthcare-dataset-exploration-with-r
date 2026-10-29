@@ -1,0 +1,8 @@
+metric,value
+rows,1000
+columns,16
+missing_cells,0
+duplicate_rows,0
+median_age,53.5
+median_billing,26104.239999999998
+median_length_of_stay_days,4
